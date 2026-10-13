@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pick a Movie — Ghandi Movies</title>
+  <meta name="description" content="Let fate choose the next film from the watchlist.">
+  <meta name="theme-color" content="#0b0508">
+  <meta name="referrer" content="no-referrer">
+  <!-- Strict CSP: only same-origin scripts/styles/fonts/data; poster images may come from any https host (OMDb/Amazon). -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo-32.png">
+  <link rel="apple-touch-icon" href="assets/img/logo-180.png">
+  <link rel="stylesheet" href="style.css">
+  <script src="theme-init.js"></script>
+  <script src="core.js" defer></script>
+  <script src="common.js" defer></script>
+  <script src="random.js" defer></script>
+</head>
+<body data-page="pick">
+<noscript><p class="noscript-msg">Ghandi Movies needs JavaScript to show the collection.</p></noscript>
+<main id="main" class="screen" tabindex="-1">
+  <header class="page-head">
+    <p class="kicker">Can&rsquo;t decide?</p>
+    <h1>Pick a Movie</h1>
+    <p class="lede">One press picks a random title from your Watchlist.</p>
+  </header>
+  <div id="state" hidden></div>
+  <div class="pick-stage">
+    <button id="pick-btn" class="btn btn-primary btn-lg" type="button" disabled>Pick a movie</button>
+    <p id="pick-status" class="hint mt-12" role="status" aria-live="polite"></p>
+    <div id="pick-result" class="pick-result" hidden></div>
+  </div>
+</main>
+</body>
+</html>
