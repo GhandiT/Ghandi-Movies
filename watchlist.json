@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T12:51:32.263Z",
+  "generatedAt": "2026-10-13T15:11:24.174Z",
   "sourceCount": 97,
   "movies": [
     {
@@ -9,7 +9,7 @@
       "year": 2015,
       "imdbID": "tt2707408",
       "imdbRating": 8.7,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Biography",
         "Crime",
@@ -24,7 +24,11 @@
       "runtimeMinutes": 49,
       "plot": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:08:17.042Z"
+      "type": "series",
+      "released": "28 Aug 2015",
+      "totalSeasons": 3,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:53.313Z"
     },
     {
       "queriedTitle": "Band of brothers",
@@ -33,7 +37,7 @@
       "year": 2001,
       "imdbID": "tt0185906",
       "imdbRating": 9.4,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjdlNGJlYjQtMDU2Mi00ZjA1LWEwYzgtYzlmNDM5MmE1ZGUwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Action",
         "Drama",
@@ -46,9 +50,13 @@
       ],
       "director": null,
       "runtimeMinutes": 594,
-      "plot": "The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.",
+      "plot": "The men of Easy Company, 506th Parachute Infantry Regiment, train for war and fight across Europe during World War II, forging bonds of brotherhood amid the brutal realities of combat.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:08:17.373Z"
+      "type": "series",
+      "released": "09 Sep 2001",
+      "totalSeasons": 1,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:53.642Z"
     },
     {
       "queriedTitle": "The man in the iron mask",
@@ -57,7 +65,7 @@
       "year": 1998,
       "imdbID": "tt0120744",
       "imdbRating": 6.5,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNDc4YWYzNzEtNWMwMC00Y2ZlLWEzZWEtZDcwYjcwYTE3Y2ZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDc4YWYzNzEtNWMwMC00Y2ZlLWEzZWEtZDcwYjcwYTE3Y2ZlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -72,7 +80,11 @@
       "runtimeMinutes": 132,
       "plot": "The cruel King Louis XIV of France has a secret twin brother whom he keeps imprisoned. Can the twin be substituted for the real king?",
       "rated": "PG-13",
-      "fetchedAt": "2026-10-04T12:08:17.710Z"
+      "type": "movie",
+      "released": "13 Mar 1998",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:53.978Z"
     },
     {
       "queriedTitle": "Black sails",
@@ -81,7 +93,7 @@
       "year": 2014,
       "imdbID": "tt2375692",
       "imdbRating": 8.2,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZGZmOGNjNzUtNTNkMC00ZDU2LThjMDAtZGM2OGRjMjE1OGQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGZmOGNjNzUtNTNkMC00ZDU2LThjMDAtZGM2OGRjMjE1OGQ5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -96,7 +108,11 @@
       "runtimeMinutes": 56,
       "plot": "Captain Flint and his pirates hunt treasure and fight for the survival of New Providence Island.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:08:18.051Z"
+      "type": "series",
+      "released": "25 Jan 2014",
+      "totalSeasons": 4,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:54.301Z"
     },
     {
       "queriedTitle": "72 Hours",
@@ -105,7 +121,7 @@
       "year": 2026,
       "imdbID": "tt36304003",
       "imdbRating": 5.4,
-      "poster": "https://m.media-amazon.com/images/M/MV5BODQ1YWVlOTctMzNjMy00YzlmLTgxNjItNzVhOGYwMDVhZDllXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTRkOTUxZDctOThmNC00ZWVkLTljMjMtNGVjYjVmMDFkZmMyXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
       "genres": [
         "Comedy"
       ],
@@ -118,7 +134,11 @@
       "runtimeMinutes": 105,
       "plot": "A 40-year-old executive ends up at a three-day bachelor party with twenty-somethings after being mistakenly included in their chat group.",
       "rated": "R",
-      "fetchedAt": "2026-09-26T10:24:49.473Z"
+      "type": "movie",
+      "released": "24 Jul 2026",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:54.619Z"
     },
     {
       "queriedTitle": "Project Hail Mary",
@@ -131,7 +151,7 @@
       "genres": [
         "Adventure",
         "Comedy",
-        "Drama"
+        "Sci-Fi"
       ],
       "cast": [
         "Ryan Gosling",
@@ -142,7 +162,11 @@
       "runtimeMinutes": 156,
       "plot": "A science teacher wakes up alone on a spaceship. As his memory returns, he uncovers a mission to stop a mysterious substance killing Earth's sun, and realizes that an unexpected friendship may be the key.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:36.745Z"
+      "type": "movie",
+      "released": "20 Mar 2026",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:54.934Z"
     },
     {
       "queriedTitle": "Heat",
@@ -166,7 +190,11 @@
       "runtimeMinutes": 170,
       "plot": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:26.415Z"
+      "type": "movie",
+      "released": "15 Dec 1995",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:55.264Z"
     },
     {
       "queriedTitle": "No Country for Old Men",
@@ -175,7 +203,7 @@
       "year": 2007,
       "imdbID": "tt0477348",
       "imdbRating": 8.2,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UY562_CR1,0,380,562_.jpg",
       "genres": [
         "Crime",
         "Drama",
@@ -190,7 +218,11 @@
       "runtimeMinutes": 122,
       "plot": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:26.719Z"
+      "type": "movie",
+      "released": "21 Nov 2007",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:55.581Z"
     },
     {
       "queriedTitle": "The Tree of Life",
@@ -199,7 +231,7 @@
       "year": 2011,
       "imdbID": "tt0478304",
       "imdbRating": 6.8,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_QL75_UY562_CR2,0,380,562_.jpg",
       "genres": [
         "Drama",
         "Fantasy"
@@ -213,7 +245,11 @@
       "runtimeMinutes": 139,
       "plot": "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:27.027Z"
+      "type": "movie",
+      "released": "18 May 2011",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:55.899Z"
     },
     {
       "queriedTitle": "Paths of Glory",
@@ -222,7 +258,7 @@
       "year": 1957,
       "imdbID": "tt0050825",
       "imdbRating": 8.4,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmQ2NmI2ODYtMDQzNS00NzQyLTkzZjgtZmZlYTQ5MTc1OWU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg",
       "genres": [
         "Drama",
         "War"
@@ -236,7 +272,11 @@
       "runtimeMinutes": 88,
       "plot": "A colonel defends three of his soldiers in a court-martial after they abandon a suicidal attack.",
       "rated": "Approved",
-      "fetchedAt": "2026-09-13T18:52:27.328Z"
+      "type": "movie",
+      "released": "25 Dec 1957",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:56.220Z"
     },
     {
       "queriedTitle": "Life Is Beautiful",
@@ -260,7 +300,11 @@
       "runtimeMinutes": 116,
       "plot": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:27.634Z"
+      "type": "movie",
+      "released": "20 Dec 1997",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:56.538Z"
     },
     {
       "queriedTitle": "A Beautiful Mind",
@@ -284,7 +328,11 @@
       "runtimeMinutes": 135,
       "plot": "A mathematical genius, John Nash made an astonishing discovery early in his career and stood on the brink of international acclaim. But Nash soon found himself on a harrowing journey of self-discovery.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:27.939Z"
+      "type": "movie",
+      "released": "04 Jan 2002",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:56.851Z"
     },
     {
       "queriedTitle": "Zodiac",
@@ -308,7 +356,11 @@
       "runtimeMinutes": 157,
       "plot": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:28.244Z"
+      "type": "movie",
+      "released": "02 Mar 2007",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:57.180Z"
     },
     {
       "queriedTitle": "Her",
@@ -316,7 +368,7 @@
       "title": "Her",
       "year": 2014,
       "imdbID": "tt1798709",
-      "imdbRating": 8,
+      "imdbRating": 7.9,
       "poster": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Drama",
@@ -332,7 +384,11 @@
       "runtimeMinutes": 126,
       "plot": "In the near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:28.580Z"
+      "type": "movie",
+      "released": "10 Jan 2014",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:57.513Z"
     },
     {
       "queriedTitle": "Gattaca",
@@ -341,7 +397,7 @@
       "year": 1997,
       "imdbID": "tt0119177",
       "imdbRating": 7.7,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Drama",
         "Sci-Fi",
@@ -356,16 +412,20 @@
       "runtimeMinutes": 106,
       "plot": "Vincent, an \"In-Valid,\" assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation. However, a week before his mission, a murder marks Vincent as a suspect.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:28.884Z"
+      "type": "movie",
+      "released": "24 Oct 1997",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:57.833Z"
     },
     {
       "queriedTitle": "Ex Machina",
       "ok": true,
       "title": "Ex Machina",
-      "year": 2014,
+      "year": 2015,
       "imdbID": "tt0470752",
       "imdbRating": 7.7,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Drama",
         "Sci-Fi",
@@ -380,7 +440,11 @@
       "runtimeMinutes": 108,
       "plot": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:29.184Z"
+      "type": "movie",
+      "released": "24 Apr 2015",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:58.152Z"
     },
     {
       "queriedTitle": "The Bourne Identity",
@@ -389,7 +453,7 @@
       "year": 2002,
       "imdbID": "tt0258463",
       "imdbRating": 7.8,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTk1ZTcyMWMtMWUxYS00MmEzLTlmODYtOTk1MGRjOTg1ZjlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTk1ZTcyMWMtMWUxYS00MmEzLTlmODYtOTk1MGRjOTg1ZjlmXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Action",
         "Mystery",
@@ -404,7 +468,11 @@
       "runtimeMinutes": 119,
       "plot": "A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:29.488Z"
+      "type": "movie",
+      "released": "14 Jun 2002",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:58.469Z"
     },
     {
       "queriedTitle": "Fight Club",
@@ -428,7 +496,11 @@
       "runtimeMinutes": 139,
       "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:29.790Z"
+      "type": "movie",
+      "released": "15 Oct 1999",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:58.783Z"
     },
     {
       "queriedTitle": "Network",
@@ -436,8 +508,8 @@
       "title": "Network",
       "year": 1976,
       "imdbID": "tt0074958",
-      "imdbRating": 8.1,
-      "poster": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "imdbRating": 8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_QL75_UX380_CR0,9,380,562_.jpg",
       "genres": [
         "Drama"
       ],
@@ -450,16 +522,20 @@
       "runtimeMinutes": 121,
       "plot": "A television network cynically exploits a deranged former anchor's ravings and revelations about mass media for its own profit, but finds that his message may be difficult to control.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:30.091Z"
+      "type": "movie",
+      "released": "27 Nov 1976",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:59.102Z"
     },
     {
       "queriedTitle": "1984",
       "ok": true,
       "title": "1984",
-      "year": 1984,
+      "year": 1985,
       "imdbID": "tt0087803",
       "imdbRating": 7,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTlhOTc3M2QtNmRhNy00ZjhhLTg3MzgtMGRhZjhkZTEwMjUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTlhOTc3M2QtNmRhNy00ZjhhLTg3MzgtMGRhZjhkZTEwMjUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
       "genres": [
         "Drama",
         "Sci-Fi"
@@ -473,31 +549,39 @@
       "runtimeMinutes": 113,
       "plot": "In a totalitarian future society, Winston Smith, whose work is re-writing history, tries to rebel. He meets a kindred spirit named Julia and they fall into a love affair.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:30.395Z"
+      "type": "movie",
+      "released": "22 Mar 1985",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:59.416Z"
     },
     {
       "queriedTitle": "Children of Men",
       "ok": true,
       "title": "Children of Men",
-      "year": 2006,
+      "year": 2007,
       "imdbID": "tt0206634",
       "imdbRating": 7.9,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
       "genres": [
         "Drama",
         "Sci-Fi",
         "Thriller"
       ],
       "cast": [
-        "Juan Gabriel Yacuzzi",
-        "Mishal Husain",
-        "Rob Curling"
+        "Julianne Moore",
+        "Clive Owen",
+        "Chiwetel Ejiofor"
       ],
       "director": "Alfonso Cuarón",
       "runtimeMinutes": 109,
       "plot": "In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:30.699Z"
+      "type": "movie",
+      "released": "05 Jan 2007",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:59.757Z"
     },
     {
       "queriedTitle": "Shaun of the Dead",
@@ -506,21 +590,25 @@
       "year": 2004,
       "imdbID": "tt0365748",
       "imdbRating": 7.8,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
       "genres": [
         "Comedy",
         "Horror"
       ],
       "cast": [
         "Simon Pegg",
-        "Kate Ashfield",
-        "Nick Frost"
+        "Nick Frost",
+        "Kate Ashfield"
       ],
       "director": "Edgar Wright",
       "runtimeMinutes": 99,
       "plot": "The uneventful, aimless lives of a London electronics salesman and his layabout roommate are disrupted by the zombie apocalypse.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:31.000Z"
+      "type": "movie",
+      "released": "24 Sep 2004",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:00.072Z"
     },
     {
       "queriedTitle": "Army of Thieves",
@@ -529,7 +617,7 @@
       "year": 2021,
       "imdbID": "tt13024674",
       "imdbRating": 6.4,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZjA5NTk2MmEtMDUzMy00NDYwLTkzY2EtNmFlODQxNjg3ZjE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjA5NTk2MmEtMDUzMy00NDYwLTkzY2EtNmFlODQxNjg3ZjE4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Action",
         "Comedy",
@@ -544,16 +632,20 @@
       "runtimeMinutes": 127,
       "plot": "A prequel, set before the events of Army of the Dead, which focuses on German safecracker Ludwig Dieter leading a group of aspiring thieves on a top secret heist during the early stages of the zombie apocalypse.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-09-11T13:05:57.343Z"
+      "type": "movie",
+      "released": "29 Oct 2021",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:00.383Z"
     },
     {
       "queriedTitle": "Incendies",
       "ok": true,
       "title": "Incendies",
-      "year": 2010,
+      "year": 2011,
       "imdbID": "tt1255953",
       "imdbRating": 8.3,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWFmMjdmNjctNzhhOC00ZmMzLTkwOGItMmVmZDU4MjE2MTYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Drama",
         "Mystery",
@@ -568,7 +660,11 @@
       "runtimeMinutes": 131,
       "plot": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:31.302Z"
+      "type": "movie",
+      "released": "22 Apr 2011",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:00.696Z"
     },
     {
       "queriedTitle": "Persian lessons",
@@ -577,7 +673,7 @@
       "year": 2020,
       "imdbID": "tt9738784",
       "imdbRating": 7.4,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDFiM2U0NGQtMDY5NC00MWU3LWI0NDAtZWMxZWY5NTE3NmIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDFiM2U0NGQtMDY5NC00MWU3LWI0NDAtZWMxZWY5NTE3NmIzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Drama",
         "War"
@@ -591,7 +687,11 @@
       "runtimeMinutes": 127,
       "plot": "A young Jewish man in a concentration camp has his life saved when executioners realize he owns a Persian book. Brought before a camp officer who wants to learn Farsi, Gilles agrees to teach him despite not knowing a word of the l...",
       "rated": null,
-      "fetchedAt": "2026-09-13T18:52:31.603Z"
+      "type": "movie",
+      "released": "24 Sep 2020",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:01.027Z"
     },
     {
       "queriedTitle": "American psycho",
@@ -600,7 +700,7 @@
       "year": 2000,
       "imdbID": "tt0144084",
       "imdbRating": 7.6,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Crime",
         "Drama",
@@ -615,7 +715,11 @@
       "runtimeMinutes": 102,
       "plot": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:31.907Z"
+      "type": "movie",
+      "released": "14 Apr 2000",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:01.343Z"
     },
     {
       "queriedTitle": "F1",
@@ -626,7 +730,6 @@
       "imdbRating": 7.6,
       "poster": "https://m.media-amazon.com/images/M/MV5BNGI0MDI4NjEtOWU3ZS00ODQyLWFhYTgtNGYxM2ZkM2Q2YjE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
-        "Action",
         "Drama",
         "Sport"
       ],
@@ -639,7 +742,11 @@
       "runtimeMinutes": 155,
       "plot": "A Formula One driver comes out of retirement to mentor and team up with a younger driver.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:32.209Z"
+      "type": "movie",
+      "released": "27 Jun 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:01.656Z"
     },
     {
       "queriedTitle": "The Matrix",
@@ -660,9 +767,13 @@
       ],
       "director": "Lana Wachowski, Lilly Wachowski",
       "runtimeMinutes": 136,
-      "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "plot": "A computer hacker discovers that his life is nothing more than an elaborate simulation run by an evil AI.",
       "rated": "R",
-      "fetchedAt": "2026-09-22T10:02:38.864Z"
+      "type": "movie",
+      "released": "31 Mar 1999",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:01.972Z"
     },
     {
       "queriedTitle": "Napoleon",
@@ -686,7 +797,11 @@
       "runtimeMinutes": 158,
       "plot": "An epic that details the chequered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
       "rated": "R",
-      "fetchedAt": "2026-09-22T10:02:39.170Z"
+      "type": "movie",
+      "released": "22 Nov 2023",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:02.284Z"
     },
     {
       "queriedTitle": "Sex education",
@@ -695,7 +810,7 @@
       "year": 2019,
       "imdbID": "tt7767422",
       "imdbRating": 8.2,
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTE0MjQ1NDU3OV5BMl5BanBnXkFtZTgwNTI4MTgwNzM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Comedy",
         "Drama",
@@ -710,7 +825,11 @@
       "runtimeMinutes": 45,
       "plot": "A teenage boy with a sex-therapist mother teams up with a high-school classmate to set up an underground sex-therapy clinic at school.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-09-22T10:02:39.469Z"
+      "type": "series",
+      "released": "11 Jan 2019",
+      "totalSeasons": 4,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:02.597Z"
     },
     {
       "queriedTitle": "Avatar",
@@ -719,7 +838,7 @@
       "year": 2009,
       "imdbID": "tt0499549",
       "imdbRating": 7.9,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -734,7 +853,11 @@
       "runtimeMinutes": 162,
       "plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:33.111Z"
+      "type": "movie",
+      "released": "18 Dec 2009",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:02.910Z"
     },
     {
       "queriedTitle": "Avatar: The Way of Water",
@@ -743,11 +866,11 @@
       "year": 2022,
       "imdbID": "tt1630029",
       "imdbRating": 7.5,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_QL75_UY562_CR6,0,380,562_.jpg",
       "genres": [
-        "Animation",
         "Action",
-        "Adventure"
+        "Adventure",
+        "Fantasy"
       ],
       "cast": [
         "Sam Worthington",
@@ -758,7 +881,11 @@
       "runtimeMinutes": 192,
       "plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-22T10:02:39.778Z"
+      "type": "movie",
+      "released": "16 Dec 2022",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:03.225Z"
     },
     {
       "queriedTitle": "American pie",
@@ -767,7 +894,7 @@
       "year": 1999,
       "imdbID": "tt0163651",
       "imdbRating": 7,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Comedy"
       ],
@@ -780,7 +907,11 @@
       "runtimeMinutes": 95,
       "plot": "Four teenage boys enter a pact to lose their virginity by prom night.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:33.415Z"
+      "type": "movie",
+      "released": "09 Jul 1999",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:03.538Z"
     },
     {
       "queriedTitle": "Ghosted",
@@ -789,7 +920,7 @@
       "year": 2023,
       "imdbID": "tt15326988",
       "imdbRating": 5.8,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDI0YzJjZTctNjU0MS00Y2Y3LThkNDgtNWMxYWVlZjVkYzYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDI0YzJjZTctNjU0MS00Y2Y3LThkNDgtNWMxYWVlZjVkYzYwXkEyXkFqcGc@._V1_QL75_UX380_CR0,5,380,562_.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -801,10 +932,14 @@
         "Adrien Brody"
       ],
       "director": "Dexter Fletcher",
-      "runtimeMinutes": 116,
+      "runtimeMinutes": 117,
       "plot": "Cole falls head over heels for enigmatic Sadie, but then makes the shocking discovery that she's a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:33.715Z"
+      "type": "movie",
+      "released": "21 Apr 2023",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:03.861Z"
     },
     {
       "queriedTitle": "Spartacus",
@@ -813,7 +948,7 @@
       "year": 2010,
       "imdbID": "tt1442449",
       "imdbRating": 8.4,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNTc4ZjlkNjUtOWZlMS00ODQ0LTg2MWUtMjBkNjMwOTJkOWZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTc4ZjlkNjUtOWZlMS00ODQ0LTg2MWUtMjBkNjMwOTJkOWZmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -828,16 +963,20 @@
       "runtimeMinutes": 55,
       "plot": "The life of Spartacus, the gladiator who led a rebellion against the Romans.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-09-13T18:52:34.022Z"
+      "type": "series",
+      "released": "22 Jan 2010",
+      "totalSeasons": 3,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:04.172Z"
     },
     {
       "queriedTitle": "Americana",
       "ok": true,
       "title": "Americana",
-      "year": 2023,
+      "year": 2025,
       "imdbID": "tt17676734",
-      "imdbRating": 5.9,
-      "poster": "https://m.media-amazon.com/images/M/MV5BODEzNDU5NDktNTg3YS00MDE1LWFjZTktYjYxMGM4MmI1MjNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "imdbRating": 6,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGM3ZTVkZTctYjA1OS00MzYzLWJjMTUtNjIxMDU3ZDI4ZjMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Comedy",
         "Crime",
@@ -852,7 +991,11 @@
       "runtimeMinutes": 107,
       "plot": "The lives of local outsiders and outcasts violently intertwine when a rare Lakota Ghost shirt falls onto the black market in a small South Dakota town.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:34.321Z"
+      "type": "movie",
+      "released": "22 Aug 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:04.483Z"
     },
     {
       "queriedTitle": "Ballerina",
@@ -864,7 +1007,8 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNzdhZmY2OTQtYWI4OC00ZThkLTlhZjAtNzE2YzRjM2Q5YjJlXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Action",
-        "Thriller"
+        "Adventure",
+        "Crime"
       ],
       "cast": [
         "Ana de Armas",
@@ -875,7 +1019,11 @@
       "runtimeMinutes": 124,
       "plot": "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:34.627Z"
+      "type": "movie",
+      "released": "06 Jun 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:04.799Z"
     },
     {
       "queriedTitle": "In time",
@@ -884,7 +1032,7 @@
       "year": 2011,
       "imdbID": "tt1637688",
       "imdbRating": 6.7,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NzI1ODc1MV5BMl5BanBnXkFtZTcwMzI5NjQwNg@@._V1_QL75_UY562_CR12,0,380,562_.jpg",
       "genres": [
         "Action",
         "Sci-Fi",
@@ -899,7 +1047,11 @@
       "runtimeMinutes": 109,
       "plot": "In a future where people stop aging at 25, but are engineered to live only one more year, having the means to buy your way out of the situation is a shot at immortal youth. Will Salas is accused of murder and on the run with a hos...",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:34.941Z"
+      "type": "movie",
+      "released": "28 Oct 2011",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:05.137Z"
     },
     {
       "queriedTitle": "Jurassic world rebirth",
@@ -923,7 +1075,11 @@
       "runtimeMinutes": 133,
       "plot": "Five years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:35.242Z"
+      "type": "movie",
+      "released": "02 Jul 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:05.450Z"
     },
     {
       "queriedTitle": "Fifty shades",
@@ -944,7 +1100,11 @@
       "runtimeMinutes": null,
       "plot": null,
       "rated": null,
-      "fetchedAt": "2026-09-22T10:02:40.099Z"
+      "type": "movie",
+      "released": "13 Jun 2012",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:05.767Z"
     },
     {
       "queriedTitle": "Divergent",
@@ -953,7 +1113,7 @@
       "year": 2014,
       "imdbID": "tt1840309",
       "imdbRating": 6.6,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMzYwODE4OV5BMl5BanBnXkFtZTgwNDE5MzE2MDE@._V1_QL75_UX380_CR0,16,380,562_.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -968,7 +1128,11 @@
       "runtimeMinutes": 139,
       "plot": "In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's...",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:35.540Z"
+      "type": "movie",
+      "released": "21 Mar 2014",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:06.100Z"
     },
     {
       "queriedTitle": "Die hart",
@@ -992,7 +1156,11 @@
       "runtimeMinutes": 2,
       "plot": "Kevin Hart - playing a version of himself - is on a death-defying quest to become an action star.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-09-12T07:19:20.481Z"
+      "type": "series",
+      "released": "20 Jul 2020",
+      "totalSeasons": 3,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:06.413Z"
     },
     {
       "queriedTitle": "The Nice Guys",
@@ -1001,7 +1169,7 @@
       "year": 2016,
       "imdbID": "tt3799694",
       "imdbRating": 7.4,
-      "poster": "https://m.media-amazon.com/images/M/MV5BM2YwNWZlZGEtYTEyZi00NjdjLWEwM2ItM2Q2MDMwZjkzMjk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2YwNWZlZGEtYTEyZi00NjdjLWEwM2ItM2Q2MDMwZjkzMjk0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Action",
         "Comedy",
@@ -1016,7 +1184,11 @@
       "runtimeMinutes": 116,
       "plot": "In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:35.841Z"
+      "type": "movie",
+      "released": "20 May 2016",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:06.729Z"
     },
     {
       "queriedTitle": "Ready Player One",
@@ -1040,7 +1212,11 @@
       "runtimeMinutes": 140,
       "plot": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:36.141Z"
+      "type": "movie",
+      "released": "29 Mar 2018",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:07.049Z"
     },
     {
       "queriedTitle": "21 jump street",
@@ -1049,7 +1225,7 @@
       "year": 2012,
       "imdbID": "tt1232829",
       "imdbRating": 7.2,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NjJiODctM2IyMS00MmQ5LWI1YmQtNTBjMTI4M2U2YzA5XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NjJiODctM2IyMS00MmQ5LWI1YmQtNTBjMTI4M2U2YzA5XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Action",
         "Comedy",
@@ -1064,7 +1240,11 @@
       "runtimeMinutes": 109,
       "plot": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:36.447Z"
+      "type": "movie",
+      "released": "16 Mar 2012",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:07.362Z"
     },
     {
       "queriedTitle": "28 Years Later",
@@ -1088,7 +1268,11 @@
       "runtimeMinutes": 115,
       "plot": "A group of survivors of the rage virus live on a small island. When one of the group leaves the island on a mission into the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other su...",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:37.045Z"
+      "type": "movie",
+      "released": "20 Jun 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:07.674Z"
     },
     {
       "queriedTitle": "Deep Cover",
@@ -1112,7 +1296,11 @@
       "runtimeMinutes": 100,
       "plot": "Three improv actors are asked to go undercover by the police in London's criminal underworld.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:37.348Z"
+      "type": "movie",
+      "released": "12 Jun 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:07.988Z"
     },
     {
       "queriedTitle": "Thunderbolts",
@@ -1136,7 +1324,11 @@
       "runtimeMinutes": 127,
       "plot": "After finding themselves ensnared in a death trap, an unconventional team of antiheroes must go on a dangerous mission that will force them to confront the darkest corners of their pasts.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:37.646Z"
+      "type": "movie",
+      "released": "02 May 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:08.301Z"
     },
     {
       "queriedTitle": "Ready or Not 2: Here I Come",
@@ -1160,7 +1352,11 @@
       "runtimeMinutes": 108,
       "plot": "Grace MacCaullay battles old wounds with her estranged sister Faith MacCaullay while rival occult dynasties hunt them through a deadly contest that promises power, survival, and betrayal before dawn.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:37.952Z"
+      "type": "movie",
+      "released": "20 Mar 2026",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:08.621Z"
     },
     {
       "queriedTitle": "Crime 101",
@@ -1182,9 +1378,13 @@
       ],
       "director": "Bart Layton",
       "runtimeMinutes": 140,
-      "plot": "An elusive thief, eyeing his final score, encounters a disillusioned insurance broker at her own crossroads. As their paths intertwine, a relentless detective trails them hoping to thwart the multi-million dollar heist they are pl...",
+      "plot": "A meticulous jewel thief risks his flawless record against an equally obsessive detective and a volatile rival, while an underestimated insurance broker turns accomplice after decades of professional disrespect.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:38.261Z"
+      "type": "movie",
+      "released": "13 Feb 2026",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:08.939Z"
     },
     {
       "queriedTitle": "The Odyssey",
@@ -1208,7 +1408,11 @@
       "runtimeMinutes": 172,
       "plot": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:38.572Z"
+      "type": "movie",
+      "released": "17 Jul 2026",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:09.256Z"
     },
     {
       "queriedTitle": "12 Years a Slave",
@@ -1232,7 +1436,11 @@
       "runtimeMinutes": 134,
       "plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:38.879Z"
+      "type": "movie",
+      "released": "08 Nov 2013",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:09.578Z"
     },
     {
       "queriedTitle": "The Pianist",
@@ -1256,7 +1464,11 @@
       "runtimeMinutes": 150,
       "plot": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:39.178Z"
+      "type": "movie",
+      "released": "28 Mar 2003",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:09.890Z"
     },
     {
       "queriedTitle": "The Green Mile",
@@ -1280,7 +1492,11 @@
       "runtimeMinutes": 189,
       "plot": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:39.478Z"
+      "type": "movie",
+      "released": "10 Dec 1999",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:10.204Z"
     },
     {
       "queriedTitle": "Good Will Hunting",
@@ -1303,7 +1519,11 @@
       "runtimeMinutes": 126,
       "plot": "A therapist counsels Will Hunting, a janitor with a genius IQ.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:39.782Z"
+      "type": "movie",
+      "released": "09 Jan 1998",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:10.516Z"
     },
     {
       "queriedTitle": "Dead Poets Society",
@@ -1312,7 +1532,7 @@
       "year": 1989,
       "imdbID": "tt0097165",
       "imdbRating": 8.1,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
       "genres": [
         "Comedy",
         "Drama"
@@ -1324,9 +1544,13 @@
       ],
       "director": "Peter Weir",
       "runtimeMinutes": 128,
-      "plot": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+      "plot": "A maverick teacher at a prestigious New England boys' boarding school uses poetry to embolden his pupils to new heights of self-expression.",
       "rated": "PG",
-      "fetchedAt": "2026-09-13T18:52:40.083Z"
+      "type": "movie",
+      "released": "09 Jun 1989",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:10.837Z"
     },
     {
       "queriedTitle": "The Intouchables",
@@ -1349,7 +1573,11 @@
       "runtimeMinutes": 112,
       "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:40.385Z"
+      "type": "movie",
+      "released": "02 Nov 2011",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:11.152Z"
     },
     {
       "queriedTitle": "La La Land",
@@ -1358,7 +1586,7 @@
       "year": 2016,
       "imdbID": "tt3783958",
       "imdbRating": 8,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDllYjliOTUtMDJjZC00ODIzLWJmNGMtOWI2NzQxMjA2NzdlXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Comedy",
         "Drama",
@@ -1373,7 +1601,11 @@
       "runtimeMinutes": 128,
       "plot": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T18:52:40.692Z"
+      "type": "movie",
+      "released": "25 Dec 2016",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:11.470Z"
     },
     {
       "queriedTitle": "Schindler's List",
@@ -1394,10 +1626,14 @@
         "Ben Kingsley"
       ],
       "director": "Steven Spielberg",
-      "runtimeMinutes": 195,
+      "runtimeMinutes": 196,
       "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
       "rated": "R",
-      "fetchedAt": "2026-09-13T18:52:40.990Z"
+      "type": "movie",
+      "released": "04 Feb 1994",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:11.789Z"
     },
     {
       "queriedTitle": "About time",
@@ -1406,7 +1642,7 @@
       "year": 2013,
       "imdbID": "tt2194499",
       "imdbRating": 7.8,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_QL75_UX380_CR0,20,380,562_.jpg",
       "genres": [
         "Comedy",
         "Drama",
@@ -1421,7 +1657,11 @@
       "runtimeMinutes": 123,
       "plot": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.",
       "rated": "R",
-      "fetchedAt": "2026-09-22T10:02:40.451Z"
+      "type": "movie",
+      "released": "08 Nov 2013",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:12.111Z"
     },
     {
       "queriedTitle": "Crazy, Stupid, Love",
@@ -1430,7 +1670,7 @@
       "year": 2011,
       "imdbID": "tt1570728",
       "imdbRating": 7.4,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjkwMTM0NF5BMl5BanBnXkFtZTcwMzc4NDg2NQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Comedy",
         "Drama",
@@ -1443,9 +1683,13 @@
       ],
       "director": "Glenn Ficarra, John Requa",
       "runtimeMinutes": 118,
-      "plot": "A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars.",
+      "plot": "A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with help from new acquaintance Jacob, who teaches him to pick up women at bars.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-22T10:02:40.788Z"
+      "type": "movie",
+      "released": "29 Jul 2011",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:12.422Z"
     },
     {
       "queriedTitle": "Avengers: Doomsday",
@@ -1469,7 +1713,11 @@
       "runtimeMinutes": 165,
       "plot": "Heroes from three different worlds must unite when they're thrust together to confront a catastrophic danger that could destroy everything they know.",
       "rated": null,
-      "fetchedAt": "2026-09-13T20:16:20.490Z"
+      "type": "movie",
+      "released": "18 Dec 2026",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:12.732Z"
     },
     {
       "queriedTitle": "Game of Thrones",
@@ -1478,11 +1726,10 @@
       "year": 2011,
       "imdbID": "tt0944947",
       "imdbRating": 9.2,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_QL75_UX380_CR0,3,380,562_.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGYxOGJkMjItZjVkZC00OGEzLWExNjktOTZmNGZhZmRlMTk2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
+        "Drama",
+        "Fantasy"
       ],
       "cast": [
         "Emilia Clarke",
@@ -1491,9 +1738,13 @@
       ],
       "director": null,
       "runtimeMinutes": 57,
-      "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "plot": "Nine noble families vie for control of Westeros and the Iron Throne, while an ancient threat beyond The Wall begins to stir.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-09-13T20:16:20.789Z"
+      "type": "series",
+      "released": "17 Apr 2011",
+      "totalSeasons": 8,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:13.049Z"
     },
     {
       "queriedTitle": "Darkest Hour",
@@ -1502,7 +1753,7 @@
       "year": 2017,
       "imdbID": "tt4555426",
       "imdbRating": 7.4,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDkyMTgzMV5BMl5BanBnXkFtZTgwNTQwNjg2MzI@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNDkyMTgzMV5BMl5BanBnXkFtZTgwNTQwNjg2MzI@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Biography",
         "Drama",
@@ -1517,7 +1768,11 @@
       "runtimeMinutes": 125,
       "plot": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean the end of the British Empire.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-13T20:16:21.087Z"
+      "type": "movie",
+      "released": "22 Dec 2017",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:13.365Z"
     },
     {
       "queriedTitle": "Silo",
@@ -1528,20 +1783,24 @@
       "imdbRating": 8.1,
       "poster": "https://m.media-amazon.com/images/M/MV5BN2E5ODJmOTUtYTk0NS00NmFiLTk0MTgtZDRlNzE1YmExMjk4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
+        "Adventure",
         "Drama",
-        "Mystery",
-        "Sci-Fi"
+        "Mystery"
       ],
       "cast": [
         "Rebecca Ferguson",
-        "Common",
-        "Chinaza Uche"
+        "Shane McRae",
+        "Common"
       ],
       "director": null,
       "runtimeMinutes": null,
       "plot": "Men and women live in a giant silo underground with several regulations which they believe are in place to protect them from the toxic and ruined world on the surface.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-09-13T20:16:21.384Z"
+      "type": "series",
+      "released": "05 May 2023",
+      "totalSeasons": 4,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:13.685Z"
     },
     {
       "queriedTitle": "The Cat in the Hat",
@@ -1549,8 +1808,8 @@
       "title": "The Cat in the Hat",
       "year": 2003,
       "imdbID": "tt0312528",
-      "imdbRating": 4.1,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDU3MTYyMF5BMl5BanBnXkFtZTYwODgyODc3._V1_SX300.jpg",
+      "imdbRating": 4.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI5MDU3MTYyMF5BMl5BanBnXkFtZTYwODgyODc3._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Adventure",
         "Comedy",
@@ -1558,14 +1817,18 @@
       ],
       "cast": [
         "Mike Myers",
-        "Alec Baldwin",
-        "Kelly Preston"
+        "Spencer Breslin",
+        "Dakota Fanning"
       ],
       "director": "Bo Welch",
       "runtimeMinutes": 82,
       "plot": "Two bored children have their lives turned upside down when a talking cat comes to visit them.",
       "rated": "PG",
-      "fetchedAt": "2026-09-13T20:16:21.686Z"
+      "type": "movie",
+      "released": "21 Nov 2003",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:14.014Z"
     },
     {
       "queriedTitle": "Marty Supreme",
@@ -1573,9 +1836,10 @@
       "title": "Marty Supreme",
       "year": 2025,
       "imdbID": "tt32916440",
-      "imdbRating": 7.7,
+      "imdbRating": 7.5,
       "poster": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
       "genres": [
+        "Comedy",
         "Drama",
         "Sport"
       ],
@@ -1588,7 +1852,11 @@
       "runtimeMinutes": 149,
       "plot": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
       "rated": "R",
-      "fetchedAt": "2026-09-22T10:02:41.164Z"
+      "type": "movie",
+      "released": "25 Dec 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:14.333Z"
     },
     {
       "queriedTitle": "Captain America: Brave New World",
@@ -1612,7 +1880,11 @@
       "runtimeMinutes": 118,
       "plot": "Sam Wilson, the new Captain America, finds himself in the middle of an international incident and must discover the motive behind a nefarious global plan.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-22T10:02:41.467Z"
+      "type": "movie",
+      "released": "14 Feb 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:14.646Z"
     },
     {
       "queriedTitle": "Thunderbolts*",
@@ -1636,7 +1908,11 @@
       "runtimeMinutes": 127,
       "plot": "After finding themselves ensnared in a death trap, an unconventional team of antiheroes must go on a dangerous mission that will force them to confront the darkest corners of their pasts.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-22T10:02:41.802Z"
+      "type": "movie",
+      "released": "02 May 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:14.957Z"
     },
     {
       "queriedTitle": "The Fantastic Four: First Steps",
@@ -1660,7 +1936,11 @@
       "runtimeMinutes": 115,
       "plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-22T10:02:42.101Z"
+      "type": "movie",
+      "released": "25 Jul 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:15.269Z"
     },
     {
       "queriedTitle": "Spider-Man: Brand New Day",
@@ -1668,12 +1948,11 @@
       "title": "Spider-Man: Brand New Day",
       "year": 2026,
       "imdbID": "tt22084616",
-      "imdbRating": 8.1,
+      "imdbRating": 8,
       "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Action",
-        "Adventure",
-        "Sci-Fi"
+        "Adventure"
       ],
       "cast": [
         "Tom Holland",
@@ -1684,7 +1963,11 @@
       "runtimeMinutes": 145,
       "plot": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
       "rated": "PG-13",
-      "fetchedAt": "2026-09-22T10:02:42.406Z"
+      "type": "movie",
+      "released": "31 Jul 2026",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:15.583Z"
     },
     {
       "queriedTitle": "Avengers: Secret Wars",
@@ -1702,7 +1985,11 @@
       "runtimeMinutes": null,
       "plot": null,
       "rated": "TV-Y7",
-      "fetchedAt": "2026-09-22T10:02:42.706Z"
+      "type": "series",
+      "released": null,
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:15.897Z"
     },
     {
       "queriedTitle": "WandaVision",
@@ -1726,7 +2013,11 @@
       "runtimeMinutes": 350,
       "plot": "Blends the style of classic sitcoms with the MCU, in which Wanda Maximoff and Vision - two super-powered beings living their ideal suburban lives - begin to suspect that everything is not as it seems.",
       "rated": "TV-PG",
-      "fetchedAt": "2026-09-22T10:02:43.004Z"
+      "type": "series",
+      "released": "15 Jan 2021",
+      "totalSeasons": 1,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:16.215Z"
     },
     {
       "queriedTitle": "Loki",
@@ -1750,7 +2041,11 @@
       "runtimeMinutes": null,
       "plot": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
       "rated": "TV-14",
-      "fetchedAt": "2026-09-22T10:02:43.298Z"
+      "type": "series",
+      "released": "09 Jun 2021",
+      "totalSeasons": 2,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:16.540Z"
     },
     {
       "queriedTitle": "Moon Knight",
@@ -1774,7 +2069,11 @@
       "runtimeMinutes": 31,
       "plot": "Steven Grant discovers he's been granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.",
       "rated": "TV-14",
-      "fetchedAt": "2026-09-22T10:02:43.611Z"
+      "type": "series",
+      "released": "30 Mar 2022",
+      "totalSeasons": 1,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:16.851Z"
     },
     {
       "queriedTitle": "The Guardians of the Galaxy Holiday Special",
@@ -1783,7 +2082,7 @@
       "year": 2022,
       "imdbID": "tt13623136",
       "imdbRating": 6.9,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDA3MzdlYTQtMTUxNi00ZjJmLTkyOTYtNDkzYmIzYTJkZjMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDA3MzdlYTQtMTUxNi00ZjJmLTkyOTYtNDkzYmIzYTJkZjMzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Action",
         "Adventure",
@@ -1798,7 +2097,11 @@
       "runtimeMinutes": 42,
       "plot": "Star-Lord, Drax, Rocket, Mantis, and Groot engage in some spirited shenanigans in an all-new original special created for Disney+.",
       "rated": "TV-14",
-      "fetchedAt": "2026-09-22T10:02:43.910Z"
+      "type": "movie",
+      "released": "25 Nov 2022",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:17.178Z"
     },
     {
       "queriedTitle": "I Am Groot",
@@ -1807,7 +2110,7 @@
       "year": 2022,
       "imdbID": "tt13623148",
       "imdbRating": 6.7,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzBlODMyZGQtN2QzOS00MDAzLWFjOGQtMGRjN2JmZWM0NWJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzBlODMyZGQtN2QzOS00MDAzLWFjOGQtMGRjN2JmZWM0NWJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Animation",
         "Short",
@@ -1822,7 +2125,11 @@
       "runtimeMinutes": 31,
       "plot": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
       "rated": "TV-PG",
-      "fetchedAt": "2026-09-22T10:02:44.206Z"
+      "type": "series",
+      "released": "10 Aug 2022",
+      "totalSeasons": 2,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:17.494Z"
     },
     {
       "queriedTitle": "Daredevil: Born Again",
@@ -1846,7 +2153,11 @@
       "runtimeMinutes": null,
       "plot": "Matt Murdock finds himself on a collision course with Wilson Fisk when their past identities begin to emerge.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-09-22T10:02:44.509Z"
+      "type": "series",
+      "released": "04 Mar 2025",
+      "totalSeasons": 3,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:17.805Z"
     },
     {
       "queriedTitle": "East of Eden",
@@ -1868,7 +2179,11 @@
       "runtimeMinutes": 118,
       "plot": "Two brothers in 1910s California struggle to maintain the favor of their affectionate but strict, Bible-toting father as an old secret about their long-absent mother comes to light.",
       "rated": "PG",
-      "fetchedAt": "2026-10-04T12:08:18.364Z"
+      "type": "movie",
+      "released": "10 Apr 1955",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:18.132Z"
     },
     {
       "queriedTitle": "Dirty grandpa",
@@ -1877,7 +2192,7 @@
       "year": 2016,
       "imdbID": "tt1860213",
       "imdbRating": 5.9,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzk0NzkyNDk2M15BMl5BanBnXkFtZTgwNDczOTU3NzE@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzk0NzkyNDk2M15BMl5BanBnXkFtZTgwNDczOTU3NzE@._V1_QL75_UX380_CR0,8,380,562_.jpg",
       "genres": [
         "Comedy"
       ],
@@ -1890,7 +2205,11 @@
       "runtimeMinutes": 102,
       "plot": "Right before his wedding, an uptight corporate lawyer is tricked into driving his grandfather, a lecherous former Army Lieutenant Colonel, to Florida for Spring Break.",
       "rated": "R",
-      "fetchedAt": "2026-10-04T12:08:18.700Z"
+      "type": "movie",
+      "released": "22 Jan 2016",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:18.452Z"
     },
     {
       "queriedTitle": "Bad teacher",
@@ -1899,7 +2218,7 @@
       "year": 2011,
       "imdbID": "tt1284575",
       "imdbRating": 5.7,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NDI4MDM0Nl5BMl5BanBnXkFtZTcwNDYwODU2NA@@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NDI4MDM0Nl5BMl5BanBnXkFtZTcwNDYwODU2NA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
       "genres": [
         "Comedy",
         "Romance"
@@ -1913,7 +2232,11 @@
       "runtimeMinutes": 92,
       "plot": "A lazy, incompetent middle school teacher who hates her job, her students, and her co-workers is forced to return to teaching to make enough money for breast implants after her wealthy fiancé dumps her.",
       "rated": "R",
-      "fetchedAt": "2026-10-04T12:08:19.013Z"
+      "type": "movie",
+      "released": "24 Jun 2011",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:18.764Z"
     },
     {
       "queriedTitle": "Good boys",
@@ -1936,7 +2259,11 @@
       "runtimeMinutes": 90,
       "plot": "Three 6th-grade boys ditch school and embark on an epic journey while carrying accidentally stolen drugs, being hunted by teenage girls, and trying to make their way home in time for a long-awaited party.",
       "rated": "R",
-      "fetchedAt": "2026-10-04T12:08:19.330Z"
+      "type": "movie",
+      "released": "16 Aug 2019",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:19.078Z"
     },
     {
       "queriedTitle": "No hard feelings",
@@ -1959,7 +2286,11 @@
       "runtimeMinutes": 103,
       "plot": "On the brink of losing her home, Maddie finds an intriguing job listing: helicopter parents looking for someone to bring their introverted 19-year-old son out of his shell before college. She has one summer to make him a man or di...",
       "rated": "R",
-      "fetchedAt": "2026-10-04T12:51:31.090Z"
+      "type": "movie",
+      "released": "23 Jun 2023",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:19.393Z"
     },
     {
       "queriedTitle": "Severance",
@@ -1983,7 +2314,11 @@
       "runtimeMinutes": null,
       "plot": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:08:19.961Z"
+      "type": "series",
+      "released": "18 Feb 2022",
+      "totalSeasons": 3,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:19.714Z"
     },
     {
       "queriedTitle": "Dark matter",
@@ -1992,7 +2327,7 @@
       "year": 2024,
       "imdbID": "tt19231492",
       "imdbRating": 7.6,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNzNmMDBhYmUtN2NmMC00NjNkLWJjMjAtOWJkY2E2YWMzZDJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2U4YWMyZTMtMmEzMy00Yzk0LThiNTctNjE0YTc5ZDZhZTk5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Drama",
         "Sci-Fi",
@@ -2005,9 +2340,13 @@
       ],
       "director": null,
       "runtimeMinutes": null,
-      "plot": "A man is abducted into an alternate version of his life. Amid the mind-bending landscape of lives he could've lived, he embarks on a harrowing journey to get back to his true family and save them from a most terrifying foe: himself.",
+      "plot": "A man is abducted into an alternate version of his life. Amid the mind-bending landscape of lives he could've lived, he embarks on a harrowing journey to get back to his true family and save them from a most terrifying foe: himself..",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:08:20.297Z"
+      "type": "series",
+      "released": "08 May 2024",
+      "totalSeasons": 2,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:20.033Z"
     },
     {
       "queriedTitle": "Lessons in chemistry",
@@ -2029,7 +2368,11 @@
       "runtimeMinutes": null,
       "plot": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere; she accepts a job on a TV cooking show and sets out to teach a nation of housewives way more than ...",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:37:57.186Z"
+      "type": "series",
+      "released": "13 Oct 2023",
+      "totalSeasons": 1,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:20.352Z"
     },
     {
       "queriedTitle": "For all mankind",
@@ -2052,7 +2395,11 @@
       "runtimeMinutes": 60,
       "plot": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:37:57.485Z"
+      "type": "series",
+      "released": "01 Nov 2019",
+      "totalSeasons": 5,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:20.673Z"
     },
     {
       "queriedTitle": "Margo's got money troubles",
@@ -2060,7 +2407,7 @@
       "title": "Margo's Got Money Troubles",
       "year": 2026,
       "imdbID": "tt31137273",
-      "imdbRating": 6.9,
+      "imdbRating": 7.3,
       "poster": "https://m.media-amazon.com/images/M/MV5BOTI2NDRhZWUtZDQwOC00OTk1LTk3Y2QtNmFlZjczOTMyZjM5XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "genres": [
         "Comedy",
@@ -2075,7 +2422,11 @@
       "runtimeMinutes": null,
       "plot": "A young mother struggles to make ends meet. When her estranged father offers help, she starts an OnlyFans account using his advice from pro wrestling. Though successful, she wonders if Internet fame comes at too high a cost.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:08:21.275Z"
+      "type": "series",
+      "released": "15 Apr 2026",
+      "totalSeasons": 1,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:20.992Z"
     },
     {
       "queriedTitle": "Ted lasso",
@@ -2099,7 +2450,11 @@
       "runtimeMinutes": 30,
       "plot": "American college football coach Ted Lasso is hired to manage AFC Richmond, a struggling English soccer club, and must win over skeptical players, staff, and fans.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:08:21.591Z"
+      "type": "series",
+      "released": "14 Aug 2020",
+      "totalSeasons": 4,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:21.308Z"
     },
     {
       "queriedTitle": "Slow horses",
@@ -2107,7 +2462,7 @@
       "title": "Slow Horses",
       "year": 2022,
       "imdbID": "tt5875444",
-      "imdbRating": 8.3,
+      "imdbRating": 8.4,
       "poster": "https://m.media-amazon.com/images/M/MV5BMmM2NDhmYjktNTIzZC00YjIwLWE1ZmUtNzM1MTNiMTU2NjdjXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
       "genres": [
         "Drama",
@@ -2122,7 +2477,11 @@
       "runtimeMinutes": 31,
       "plot": "A dysfunctional team of MI5 agents navigate the espionage world's smoke and mirrors to defend the UK from sinister forces.",
       "rated": "TV-MA",
-      "fetchedAt": "2026-10-04T12:08:21.924Z"
+      "type": "series",
+      "released": "01 Apr 2022",
+      "totalSeasons": 8,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:21.621Z"
     },
     {
       "queriedTitle": "Whalefall",
@@ -2146,7 +2505,11 @@
       "runtimeMinutes": null,
       "plot": "Follows a scuba diver who, while looking for his father's remains, is swallowed by an 80-foot, 60-ton sperm whale and has just one hour to get out before his oxygen runs out.",
       "rated": null,
-      "fetchedAt": "2026-10-04T12:08:22.238Z"
+      "type": "movie",
+      "released": "15 Oct 2026",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:21.940Z"
     },
     {
       "queriedTitle": "Superhero movie",
@@ -2170,7 +2533,11 @@
       "runtimeMinutes": 75,
       "plot": "Orphaned high school student Rick Riker is bitten by a radioactive dragonfly, develops super powers (except for the ability to fly), and becomes a hero.",
       "rated": "PG-13",
-      "fetchedAt": "2026-10-04T12:08:22.553Z"
+      "type": "movie",
+      "released": "28 Mar 2008",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:22.252Z"
     },
     {
       "queriedTitle": "Loft",
@@ -2194,7 +2561,11 @@
       "runtimeMinutes": 118,
       "plot": "Five close friends, all of them married, share a loft to meet their mistresses. One day they find the body of a young woman in the loft. Since there are only five keys to the loft, the five men begin to suspect each other of murder.",
       "rated": null,
-      "fetchedAt": "2026-10-04T12:08:22.864Z"
+      "type": "movie",
+      "released": "22 Oct 2008",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:22.582Z"
     },
     {
       "queriedTitle": "Artificial",
@@ -2215,7 +2586,11 @@
       "runtimeMinutes": null,
       "plot": null,
       "rated": null,
-      "fetchedAt": "2026-10-04T12:51:31.386Z"
+      "type": "movie",
+      "released": "17 Jun 2020",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:22.900Z"
     },
     {
       "queriedTitle": "Heads of state",
@@ -2239,7 +2614,11 @@
       "runtimeMinutes": 116,
       "plot": "When the U.K. Prime Minister and U.S. President become the targets of a foreign adversary, they are forced to rely on each other to thwart a global conspiracy.",
       "rated": "PG-13",
-      "fetchedAt": "2026-10-04T12:08:23.496Z"
+      "type": "movie",
+      "released": "02 Jul 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:23.242Z"
     },
     {
       "queriedTitle": "Friends",
@@ -2262,7 +2641,11 @@
       "runtimeMinutes": 22,
       "plot": "The personal and professional lives of six friends living in the Manhattan borough of New York City.",
       "rated": "TV-14",
-      "fetchedAt": "2026-10-04T12:51:31.713Z"
+      "type": "series",
+      "released": "22 Sep 1994",
+      "totalSeasons": 10,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:23.605Z"
     },
     {
       "queriedTitle": "Die my love",
@@ -2282,10 +2665,14 @@
         "Sissy Spacek"
       ],
       "director": "Lynne Ramsay",
-      "runtimeMinutes": 119,
-      "plot": "Grace, a writer and young mother, is suffering from post partum depression and slowly spiralling into madness. Moving into an old house with her husband, Jackson, her mind begins to unravel as she becomes increasingly agitated and...",
+      "runtimeMinutes": 118,
+      "plot": "A writer and young mother is suffering post-partum depression and slowly spiralling into madness. Moving into an old house with her husband, she grows more and more agitated and erratic as her mind begins to unravel.",
       "rated": "R",
-      "fetchedAt": "2026-10-04T12:51:32.012Z"
+      "type": "movie",
+      "released": "07 Nov 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:11:23.924Z"
     }
   ]
 }
