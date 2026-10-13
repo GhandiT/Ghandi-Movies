@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Collection — Ghandi Movies</title>
+  <meta name="description" content="Franchises and film series, ordered by release.">
+  <meta name="theme-color" content="#0b0508">
+  <meta name="referrer" content="no-referrer">
+  <!-- Strict CSP: only same-origin scripts/styles/fonts/data; poster images may come from any https host (OMDb/Amazon). -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo-32.png">
+  <link rel="apple-touch-icon" href="assets/img/logo-180.png">
+  <link rel="stylesheet" href="style.css">
+  <script src="theme-init.js"></script>
+  <script src="core.js" defer></script>
+  <script src="common.js" defer></script>
+  <script src="collection.js" defer></script>
+</head>
+<body data-page="collection">
+<noscript><p class="noscript-msg">Ghandi Movies needs JavaScript to show the collection.</p></noscript>
+<main id="main" class="screen" tabindex="-1">
+  <header class="page-head">
+    <p class="kicker">Franchises &amp; sagas</p>
+    <h1>Collection</h1>
+    <p class="lede" id="lede">Pick a collection to see its films from oldest to newest.</p>
+  </header>
+  <section class="toolbar" aria-label="Search collections">
+    <div class="search-wrap" role="search">
+      <label class="sr-only" for="q" id="q-label">Search collections</label>
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="q" class="input" type="search" placeholder="Search collections or film titles…" autocomplete="off" spellcheck="false" maxlength="100">
+    </div>
+  </section>
+  <div id="state" hidden></div>
+  <section id="picker" aria-label="Collections">
+    <div id="collection-grid" class="collection-grid"></div>
+  </section>
+  <section id="detail" hidden aria-labelledby="detail-heading">
+    <div class="crumb">
+      <button id="back" class="btn" type="button">&larr; All collections</button>
+      <p id="detail-count" class="hint" role="status"></p>
+    </div>
+    <h2 id="detail-heading" tabindex="-1"></h2>
+    <div id="grid" class="poster-grid mt-18"></div>
+  </section>
+</main>
+</body>
+</html>
