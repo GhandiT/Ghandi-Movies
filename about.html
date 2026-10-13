@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About & Credits — Ghandi Movies</title>
+  <meta name="description" content="About this archive, and credits for the data, fonts and tools behind it.">
+  <meta name="theme-color" content="#0b0508">
+  <meta name="referrer" content="no-referrer">
+  <!-- Strict CSP: only same-origin scripts/styles/fonts/data; poster images may come from any https host (OMDb/Amazon). -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo-32.png">
+  <link rel="apple-touch-icon" href="assets/img/logo-180.png">
+  <link rel="stylesheet" href="style.css">
+  <script src="theme-init.js"></script>
+  <script src="core.js" defer></script>
+  <script src="common.js" defer></script>
+  <script src="about.js" defer></script>
+</head>
+<body data-page="about">
+<noscript><p class="noscript-msg">Ghandi Movies needs JavaScript to show the collection.</p></noscript>
+<main id="main" class="screen" tabindex="-1">
+  <header class="page-head">
+    <p class="kicker">Behind the screen</p>
+    <h1>About &amp; Credits</h1>
+  </header>
+  <section aria-label="About">
+    <div id="about-text" class="prose" aria-live="polite"><p class="hint">Loading&hellip;</p></div>
+  </section>
+  <section class="section" aria-labelledby="credits-h">
+    <div class="section-head"><h2 id="credits-h">Credits</h2></div>
+    <ul class="credits">
+      <li>Film and series data, posters and ratings: <a href="https://www.omdbapi.com/" target="_blank" rel="noopener noreferrer">OMDb API</a>. Ratings shown are IMDb ratings; &ldquo;Open on IMDb&rdquo; links go to <a href="https://www.imdb.com/" target="_blank" rel="noopener noreferrer">IMDb</a>. This site is not affiliated with IMDb or OMDb.</li>
+      <li>Typefaces, self-hosted: Fraunces and Inter (SIL Open Font License), Great Vibes (SIL Open Font License).</li>
+      <li>No analytics, no cookies, no tracking. Your theme choice is the only thing stored in your browser.</li>
+      <li>Design and build: Ghandi A.T.</li>
+    </ul>
+  </section>
+</main>
+</body>
+</html>

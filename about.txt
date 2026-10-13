@@ -1,0 +1,12 @@
+Ghandi Movies is a personal, cinematic movie archive created and curated by Ghandi.
+
+All film data, posters, ratings, and metadata are sourced from OMDb (the Open Movie Database), which itself is powered by IMDb. This site does not host, stream, or distribute any films. It is a purely personal, non-commercial project made for fun and entertainment purposes only.
+
+The site does not collect any personal data, does not use cookies for tracking, and does not send any information to third parties. Your theme preference is the only thing stored in your browser.
+
+While we try to keep everything accurate and up to date, we make no guarantees about the completeness or correctness of the data shown. All trademarks, posters, and titles belong to their respective owners.
+
+Thank you for visiting and taking a look around. Enjoy the show.
+
+One more episode?
+Always!
