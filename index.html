@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ghandi Movies — personal film archive</title>
+  <meta name="description" content="A personal, cinematic archive of every movie and series watched: search, filter and explore the collection.">
+  <meta name="theme-color" content="#0b0508">
+  <meta name="referrer" content="no-referrer">
+  <!-- Strict CSP: only same-origin scripts/styles/fonts/data; poster images may come from any https host (OMDb/Amazon). -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo-32.png">
+  <link rel="apple-touch-icon" href="assets/img/logo-180.png">
+  <link rel="stylesheet" href="style.css">
+  <script src="theme-init.js"></script>
+  <script src="core.js" defer></script>
+  <script src="common.js" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body data-page="home">
+<noscript><p class="noscript-msg">Ghandi Movies needs JavaScript to show the collection.</p></noscript>
+<main id="main" class="screen" tabindex="-1">
+  <header class="page-head">
+    <p class="kicker">Now showing</p>
+    <h1>Movie Collection</h1>
+    <p class="lede">Everything watched, projected on the big screen. Search by title, series or actor, then filter and sort.</p>
+  </header>
+
+  <section id="stats" class="stats" aria-label="Collection statistics"></section>
+
+  <section class="toolbar" aria-label="Search and filters">
+    <div class="search-wrap" role="search">
+      <label class="sr-only" for="q">Search titles, series or actors</label>
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="q" class="input" type="search" placeholder="Search titles, series or actors…" autocomplete="off" spellcheck="false" maxlength="100">
+    </div>
+    <div class="filters">
+      <div class="field"><label for="f-sort">Sort by</label>
+        <select id="f-sort" class="select">
+          <option value="my-order">My order</option>
+          <option value="recent">Recently added</option>
+          <option value="rating-desc">Rating: high to low</option>
+          <option value="rating-asc">Rating: low to high</option>
+          <option value="year-desc">Release: newest</option>
+          <option value="year-asc">Release: oldest</option>
+          <option value="alpha-asc">Title: A–Z</option>
+          <option value="alpha-desc">Title: Z–A</option>
+        </select></div>
+      <div class="field"><label for="f-genre">Genre</label><select id="f-genre" class="select"><option value="all">All genres</option></select></div>
+      <div class="field"><label for="f-year">Release year</label><select id="f-year" class="select"><option value="all">All years</option></select></div>
+      <div class="field"><label for="f-rating">Minimum rating</label>
+        <select id="f-rating" class="select">
+          <option value="0">Any rating</option><option value="5">5.0 +</option><option value="6">6.0 +</option><option value="7">7.0 +</option><option value="8">8.0 +</option><option value="9">9.0 +</option>
+        </select></div>
+      <div class="field"><label for="f-type">Content type</label>
+        <select id="f-type" class="select">
+          <option value="all">Movies and series</option><option value="movies">Movies only</option><option value="series">Series only</option>
+        </select></div>
+      <button id="f-reset" class="btn" type="button">Reset</button>
+    </div>
+  </section>
+
+  <div class="result-line">
+    <p id="result-count" role="status" aria-live="polite"></p>
+    <p class="hint">Search covers the titles in this archive: titles, directors, genres and cast.</p>
+  </div>
+  <div id="state" hidden></div>
+  <div id="grid" class="poster-grid"></div>
+</main>
+</body>
+</html>
