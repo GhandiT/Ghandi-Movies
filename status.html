@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Status — Ghandi Movies</title>
+  <meta name="description" content="Statistics about the archive: best movie and series, watch time, favorite artist, genre and year.">
+  <meta name="theme-color" content="#0b0508">
+  <meta name="referrer" content="no-referrer">
+  <!-- Strict CSP: only same-origin scripts/styles/fonts/data; poster images may come from any https host (OMDb/Amazon). -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo-32.png">
+  <link rel="apple-touch-icon" href="assets/img/logo-180.png">
+  <link rel="stylesheet" href="style.css">
+  <script src="theme-init.js"></script>
+  <script src="core.js" defer></script>
+  <script src="common.js" defer></script>
+  <script src="status.js" defer></script>
+</head>
+<body data-page="status">
+<noscript><p class="noscript-msg">Ghandi Movies needs JavaScript to show the collection.</p></noscript>
+<main id="main" class="screen" tabindex="-1">
+  <header class="page-head">
+    <p class="kicker">The numbers</p>
+    <h1>My Status</h1>
+    <p class="lede">Calculated live from the archive &mdash; nothing here is typed in by hand.</p>
+  </header>
+  <div id="state" hidden></div>
+  <div id="status-content" hidden>
+    <div class="cols-2">
+      <section class="tile" aria-labelledby="best-movie-h"><p class="kicker" id="best-movie-h">Best movie</p><div id="best-movie"></div></section>
+      <section class="tile" aria-labelledby="best-series-h"><p class="kicker" id="best-series-h">Best series</p><div id="best-series"></div></section>
+    </div>
+
+    <section class="section tile" aria-labelledby="time-h">
+      <p class="kicker" id="time-h">Total watch time</p>
+      <div id="watch-time"></div>
+    </section>
+
+    <section class="section" aria-labelledby="artist-h">
+      <div class="section-head"><p class="kicker">Favorite artist</p><h2 id="artist-h" class="sr-only">Favorite artist</h2></div>
+      <div id="artist" class="tile"></div>
+    </section>
+
+    <section class="section" aria-labelledby="genre-h">
+      <div class="section-head"><p class="kicker">Favorite genre</p><h2 id="genre-h">&hellip;</h2><p id="genre-note"></p></div>
+      <div id="genre-strip" class="strip"></div>
+    </section>
+
+    <section id="year-reveal" class="section year-reveal" aria-labelledby="year-h">
+      <p class="kicker">Favorite year</p>
+      <h2 id="year-h" class="year-num">&mdash;</h2>
+      <p id="year-count" class="year-count"></p>
+      <div id="year-posters" class="year-posters"></div>
+    </section>
+
+    <section class="section" aria-labelledby="dist-h">
+      <div class="section-head"><p class="kicker">Genre distribution</p><h2 id="dist-h">What the archive is made of</h2></div>
+      <div id="distribution" class="tile"></div>
+    </section>
+
+    <section class="signature" aria-label="Signature">
+      <div class="sig" id="signature">Ghandi A.T</div>
+      <div class="sig-line"></div>
+      <p class="sig-cap">The archivist</p>
+    </section>
+  </div>
+</main>
+</body>
+</html>
