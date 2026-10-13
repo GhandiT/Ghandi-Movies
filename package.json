@@ -1,0 +1,1 @@
+{"name":"ghandi-movies","private":true,"version":"2.0.0","scripts":{"test":"node --test tests/core.test.js","fetch":"node scripts/fetch-movies.js && node scripts/fetch-watchlist.js && node scripts/fetch-collections.js"}}
