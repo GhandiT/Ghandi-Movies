@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Watchlist & Rewatchs — Ghandi Movies</title>
+  <meta name="description" content="Titles waiting to be watched, or watched again.">
+  <meta name="theme-color" content="#0b0508">
+  <meta name="referrer" content="no-referrer">
+  <!-- Strict CSP: only same-origin scripts/styles/fonts/data; poster images may come from any https host (OMDb/Amazon). -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/logo-32.png">
+  <link rel="apple-touch-icon" href="assets/img/logo-180.png">
+  <link rel="stylesheet" href="style.css">
+  <script src="theme-init.js"></script>
+  <script src="core.js" defer></script>
+  <script src="common.js" defer></script>
+  <script src="watchlist.js" defer></script>
+</head>
+<body data-page="watchlist">
+<noscript><p class="noscript-msg">Ghandi Movies needs JavaScript to show the collection.</p></noscript>
+<main id="main" class="screen" tabindex="-1">
+  <header class="page-head">
+    <p class="kicker">Coming attractions</p>
+    <h1>Watchlist &amp; Rewatchs</h1>
+    <p class="lede">What&rsquo;s queued up next, and what deserves a second viewing.</p>
+  </header>
+  <section class="toolbar" aria-label="Search the watchlist">
+    <div class="search-wrap" role="search">
+      <label class="sr-only" for="q">Search the watchlist</label>
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M11 4a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="q" class="input" type="search" placeholder="Search the watchlist…" autocomplete="off" spellcheck="false" maxlength="100">
+    </div>
+  </section>
+  <div class="result-line"><p id="result-count" role="status" aria-live="polite"></p></div>
+  <div id="state" hidden></div>
+  <div id="grid" class="poster-grid"></div>
+</main>
+</body>
+</html>
