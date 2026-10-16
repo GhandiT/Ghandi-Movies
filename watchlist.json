@@ -1,7 +1,231 @@
 {
-  "generatedAt": "2026-10-13T15:11:24.174Z",
-  "sourceCount": 97,
+  "generatedAt": "2026-10-16T12:03:37.687Z",
+  "sourceCount": 109,
   "movies": [
+    {
+      "queriedTitle": "Get Hard",
+      "ok": true,
+      "title": "Get Hard",
+      "year": 2015,
+      "imdbID": "tt2561572",
+      "imdbRating": 6,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc3OTc1NjM0M15BMl5BanBnXkFtZTgwNjAyMzE1MzE@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        "Will Ferrell",
+        "Kevin Hart",
+        "Alison Brie"
+      ],
+      "director": "Etan Cohen",
+      "runtimeMinutes": 100,
+      "plot": "When millionaire James King is jailed for fraud and bound for San Quentin, he turns to Darnell Lewis to prep him to go behind bars.",
+      "rated": "R",
+      "type": "movie",
+      "released": "27 Mar 2015",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:34.337Z"
+    },
+    {
+      "queriedTitle": "Ride Along",
+      "ok": true,
+      "title": "Ride Along",
+      "year": 2014,
+      "imdbID": "tt1408253",
+      "imdbRating": 6.2,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjU4NzYzOTY1MF5BMl5BanBnXkFtZTgwMTAyNTc1MDE@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "cast": [
+        "Ice Cube",
+        "Kevin Hart",
+        "Tika Sumpter"
+      ],
+      "director": "Tim Story",
+      "runtimeMinutes": 99,
+      "plot": "Security guard Ben must prove himself to his girlfriend's brother, top police officer James. He rides along James on a 24-hour patrol of Atlanta.",
+      "rated": "PG-13",
+      "type": "movie",
+      "released": "17 Jan 2014",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:34.647Z"
+    },
+    {
+      "queriedTitle": "Ride Along 2",
+      "ok": true,
+      "title": "Ride Along 2",
+      "year": 2016,
+      "imdbID": "tt2869728",
+      "imdbRating": 5.9,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTU4ODAzMzcxOV5BMl5BanBnXkFtZTgwODkxMDI1NjE@._V1_QL75_UX380_CR0,20,380,562_.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "cast": [
+        "Ice Cube",
+        "Kevin Hart",
+        "Tika Sumpter"
+      ],
+      "director": "Tim Story",
+      "runtimeMinutes": 102,
+      "plot": "As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in-law James to bring down a drug dealer who's supplying the dealers of Atlanta with product.",
+      "rated": "PG-13",
+      "type": "movie",
+      "released": "15 Jan 2016",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:34.956Z"
+    },
+    {
+      "queriedTitle": "The Lincoln Lawyer",
+      "ok": true,
+      "title": "The Lincoln Lawyer",
+      "year": 2011,
+      "imdbID": "tt1189340",
+      "imdbRating": 7.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NDE4NTY5MV5BMl5BanBnXkFtZTcwODQyMTkxNA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "cast": [
+        "Matthew McConaughey",
+        "Marisa Tomei",
+        "Ryan Phillippe"
+      ],
+      "director": "Brad Furman",
+      "runtimeMinutes": 118,
+      "plot": "A defense lawyer lands a case defending a wealthy realtor's son who is accused of raping a prostitute, but he genuinely believes his client to be innocent and intends to prove it.",
+      "rated": "R",
+      "type": "movie",
+      "released": "18 Mar 2011",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-13T15:10:37.115Z"
+    },
+    {
+      "queriedTitle": "Stuart Fails to Save the Universe",
+      "ok": true,
+      "title": "Stuart Fails to Save the Universe",
+      "year": 2026,
+      "imdbID": "tt27497393",
+      "imdbRating": 7.1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmRmODg5ZTctMTMyMS00YmZmLWEyZTMtMjFmOGU1NjYwMGI2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Kevin Sussman",
+        "Lauren Lapkus",
+        "Brian Posehn"
+      ],
+      "director": null,
+      "runtimeMinutes": null,
+      "plot": "Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts—and apparently fails—to save the universe, staying true to his unlucky nature.",
+      "rated": "TV-MA",
+      "type": "series",
+      "released": "23 Jul 2026",
+      "totalSeasons": 1,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:35.288Z"
+    },
+    {
+      "queriedTitle": "The Naked gun",
+      "ok": true,
+      "title": "The Naked Gun",
+      "year": 2025,
+      "imdbID": "tt3402138",
+      "imdbRating": 6.3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGFlNDhkNzItZjgxNC00OGYzLWFjZDAtZTJmNDY5ZmEyZDc0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "cast": [
+        "Liam Neeson",
+        "Pamela Anderson",
+        "Paul Walter Hauser"
+      ],
+      "director": "Akiva Schaffer",
+      "runtimeMinutes": 85,
+      "plot": "Following in his father's footsteps, a detective works to solve a murder case and save his police department from closure.",
+      "rated": "PG-13",
+      "type": "movie",
+      "released": "01 Aug 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:35.593Z"
+    },
+    {
+      "queriedTitle": "The Impossible",
+      "ok": true,
+      "title": "The Impossible",
+      "year": 2013,
+      "imdbID": "tt1649419",
+      "imdbRating": 7.5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjM1ZTJkMjctY2M0ZC00ZTkyLTliYTktNzYxYWIzYTAyOTRjXkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "cast": [
+        "Naomi Watts",
+        "Ewan McGregor",
+        "Tom Holland"
+      ],
+      "director": "J.A. Bayona",
+      "runtimeMinutes": 114,
+      "plot": "The story of a tourist family in Thailand caught in the destruction and chaotic aftermath of the 2004 Indian Ocean tsunami.",
+      "rated": "PG-13",
+      "type": "movie",
+      "released": "04 Jan 2013",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:35.909Z"
+    },
+    {
+      "queriedTitle": "Jumanji: Open World",
+      "ok": true,
+      "title": "Jumanji: Open World",
+      "year": 2026,
+      "imdbID": "tt26735127",
+      "imdbRating": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjgxZmExZDYtNDhkZS00YWI0LTlmOWQtZWRhYzY0ZWY4ODljXkEyXkFqcGc@._V1_QL75_UY562_CR179,0,380,562_.jpg",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "cast": [
+        "Dwayne Johnson",
+        "Karen Gillan",
+        "Jack Black"
+      ],
+      "director": "Jake Kasdan",
+      "runtimeMinutes": null,
+      "plot": "The fourth and final installment in the Jumanji franchise, it is the direct sequel to Jumanji: The Next Level, the third film in the main series.",
+      "rated": null,
+      "type": "movie",
+      "released": "25 Dec 2026",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:36.210Z"
+    },
     {
       "queriedTitle": "Narcos",
       "ok": true,
@@ -636,7 +860,7 @@
       "released": "29 Oct 2021",
       "totalSeasons": null,
       "schema": 2,
-      "fetchedAt": "2026-10-13T15:11:00.383Z"
+      "fetchedAt": "2026-10-13T15:10:33.960Z"
     },
     {
       "queriedTitle": "Incendies",
@@ -1160,7 +1384,7 @@
       "released": "20 Jul 2020",
       "totalSeasons": 3,
       "schema": 2,
-      "fetchedAt": "2026-10-13T15:11:06.413Z"
+      "fetchedAt": "2026-10-13T15:10:46.356Z"
     },
     {
       "queriedTitle": "The Nice Guys",
@@ -2673,6 +2897,114 @@
       "totalSeasons": null,
       "schema": 2,
       "fetchedAt": "2026-10-13T15:11:23.924Z"
+    },
+    {
+      "queriedTitle": "Virgin river",
+      "ok": true,
+      "title": "Virgin River",
+      "year": 2019,
+      "imdbID": "tt9077530",
+      "imdbRating": 7.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2U4NTFmMjktMDNkYy00MDdmLWEzNzktZDQ0MTAxNmY4ZWQ5XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "cast": [
+        "Alexandra Breckenridge",
+        "Martin Henderson",
+        "Colin Lawrence"
+      ],
+      "director": null,
+      "runtimeMinutes": 44,
+      "plot": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and whom she finds there.",
+      "rated": "TV-14",
+      "type": "series",
+      "released": "06 Dec 2019",
+      "totalSeasons": 7,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:36.512Z"
+    },
+    {
+      "queriedTitle": "Good Fortune",
+      "ok": true,
+      "title": "Good Fortune",
+      "year": 2025,
+      "imdbID": "tt27543578",
+      "imdbRating": 6.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjk3ZTgwZmUtOTVlMy00ODExLTkzMTUtYzRhM2FjNGYyMzZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "cast": [
+        "Seth Rogen",
+        "Aziz Ansari",
+        "Keke Palmer"
+      ],
+      "director": "Aziz Ansari",
+      "runtimeMinutes": 97,
+      "plot": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy venture capitalist.",
+      "rated": "R",
+      "type": "movie",
+      "released": "17 Oct 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:36.821Z"
+    },
+    {
+      "queriedTitle": "One of Them Days",
+      "ok": true,
+      "title": "One of Them Days",
+      "year": 2025,
+      "imdbID": "tt32221196",
+      "imdbRating": 6.4,
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjI3OGIyYTYtN2QzZC00YzZiLThjOTktM2QyYThlZTM3NjYzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "genres": [
+        "Comedy"
+      ],
+      "cast": [
+        "Keke Palmer",
+        "SZA",
+        "Vanessa Bell Calloway"
+      ],
+      "director": "Lawrence Lamont",
+      "runtimeMinutes": 97,
+      "plot": "When best friends and roommates Dreux and Alyssa discover Alyssa's boyfriend has blown their rent money, the duo finds themselves going to extremes in a race against the clock to avoid eviction and keep their friendship intact.",
+      "rated": "R",
+      "type": "movie",
+      "released": "17 Jan 2025",
+      "totalSeasons": null,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:37.127Z"
+    },
+    {
+      "queriedTitle": "new tricks",
+      "ok": true,
+      "title": "New Tricks",
+      "year": 2003,
+      "imdbID": "tt0362357",
+      "imdbRating": 8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGQxN2I0OGMtYWZkYy00NWNhLTg2NzgtMzg2OWQ5NDMxOGNiXkEyXkFqcGc@._V1_QL75_UY562_CR11,0,380,562_.jpg",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        "Dennis Waterman",
+        "Amanda Redman",
+        "Alun Armstrong"
+      ],
+      "director": null,
+      "runtimeMinutes": 60,
+      "plot": "The Met drafts in three retired detectives to work under a serving officer and investigate old cases with the benefit of modern technology and techniques, creating the Unsolved Crimes and Open Cases Squad.",
+      "rated": "TV-14",
+      "type": "series",
+      "released": "26 Jan 2003",
+      "totalSeasons": 12,
+      "schema": 2,
+      "fetchedAt": "2026-10-16T12:03:37.435Z"
     }
   ]
 }

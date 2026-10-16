@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T15:11:57.933Z",
+  "generatedAt": "2026-10-16T12:03:37.746Z",
   "collections": [
     {
       "name": "Marvel Cinematic Universe (MCU)",
@@ -29,10 +29,10 @@
           "released": "20 Jun 2003",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:33.539Z"
+          "fetchedAt": "2026-10-13T15:09:33.862Z"
         },
         {
-          "queriedTitle": "Iron Man",
+          "queriedTitle": "iron man",
           "ok": true,
           "title": "Iron Man",
           "year": 2008,
@@ -57,7 +57,7 @@
           "released": "02 May 2008",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:24.400Z"
+          "fetchedAt": "2026-10-13T15:09:24.148Z"
         },
         {
           "queriedTitle": "The Incredible Hulk",
@@ -84,10 +84,10 @@
           "released": "13 Jun 2008",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:33.229Z"
+          "fetchedAt": "2026-10-13T15:10:47.320Z"
         },
         {
-          "queriedTitle": "Iron Man 2",
+          "queriedTitle": "iron man 2",
           "ok": true,
           "title": "Iron Man 2",
           "year": 2010,
@@ -111,7 +111,7 @@
           "released": "07 May 2010",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:24.716Z"
+          "fetchedAt": "2026-10-13T15:09:24.463Z"
         },
         {
           "queriedTitle": "Captain America: The First Avenger",
@@ -139,7 +139,7 @@
           "released": "22 Jul 2011",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:25.350Z"
+          "fetchedAt": "2026-10-13T15:09:25.096Z"
         },
         {
           "queriedTitle": "Thor",
@@ -166,7 +166,7 @@
           "released": "06 May 2011",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:26.296Z"
+          "fetchedAt": "2026-10-13T15:09:28.204Z"
         },
         {
           "queriedTitle": "The Avengers",
@@ -193,10 +193,10 @@
           "released": "04 May 2012",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:27.557Z"
+          "fetchedAt": "2026-10-13T15:09:29.159Z"
         },
         {
-          "queriedTitle": "Iron Man 3",
+          "queriedTitle": "iron man 3",
           "ok": true,
           "title": "Iron Man 3",
           "year": 2013,
@@ -220,7 +220,7 @@
           "released": "03 May 2013",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:25.033Z"
+          "fetchedAt": "2026-10-13T15:09:24.779Z"
         },
         {
           "queriedTitle": "Thor: The Dark World",
@@ -248,7 +248,7 @@
           "released": "08 Nov 2013",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:26.608Z"
+          "fetchedAt": "2026-10-13T15:09:28.522Z"
         },
         {
           "queriedTitle": "Captain America: The Winter Soldier",
@@ -276,7 +276,7 @@
           "released": "04 Apr 2014",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:25.668Z"
+          "fetchedAt": "2026-10-13T15:09:25.453Z"
         },
         {
           "queriedTitle": "Guardians of the Galaxy",
@@ -304,7 +304,7 @@
           "released": "01 Aug 2014",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:30.080Z"
+          "fetchedAt": "2026-10-13T15:09:35.491Z"
         },
         {
           "queriedTitle": "Avengers: Age of Ultron",
@@ -332,7 +332,7 @@
           "released": "01 May 2015",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:27.876Z"
+          "fetchedAt": "2026-10-13T15:09:30.243Z"
         },
         {
           "queriedTitle": "Ant-Man",
@@ -360,7 +360,7 @@
           "released": "17 Jul 2015",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:28.825Z"
+          "fetchedAt": "2026-10-13T15:09:31.841Z"
         },
         {
           "queriedTitle": "Captain America: Civil War",
@@ -387,7 +387,7 @@
           "released": "06 May 2016",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:25.984Z"
+          "fetchedAt": "2026-10-13T15:09:25.776Z"
         },
         {
           "queriedTitle": "Doctor Strange",
@@ -415,7 +415,7 @@
           "released": "04 Nov 2016",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:29.452Z"
+          "fetchedAt": "2026-10-13T15:09:34.178Z"
         },
         {
           "queriedTitle": "Deadpool",
@@ -443,7 +443,7 @@
           "released": "12 Feb 2016",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:34.475Z"
+          "fetchedAt": "2026-10-13T15:09:41.823Z"
         },
         {
           "queriedTitle": "Thor: Ragnarok",
@@ -471,7 +471,7 @@
           "released": "03 Nov 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:26.931Z"
+          "fetchedAt": "2026-10-13T15:09:28.836Z"
         },
         {
           "queriedTitle": "Guardians of the Galaxy Vol. 2",
@@ -499,7 +499,7 @@
           "released": "05 May 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:30.404Z"
+          "fetchedAt": "2026-10-13T15:09:35.805Z"
         },
         {
           "queriedTitle": "Spider-Man: Homecoming",
@@ -527,7 +527,7 @@
           "released": "07 Jul 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:30.715Z"
+          "fetchedAt": "2026-10-13T15:09:49.432Z"
         },
         {
           "queriedTitle": "Avengers: Infinity War",
@@ -555,7 +555,7 @@
           "released": "27 Apr 2018",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:28.189Z"
+          "fetchedAt": "2026-10-13T15:09:29.790Z"
         },
         {
           "queriedTitle": "Ant-Man and the Wasp",
@@ -583,7 +583,7 @@
           "released": "06 Jul 2018",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:29.141Z"
+          "fetchedAt": "2026-10-13T15:09:33.537Z"
         },
         {
           "queriedTitle": "Black Panther",
@@ -611,7 +611,7 @@
           "released": "16 Feb 2018",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:31.659Z"
+          "fetchedAt": "2026-10-13T15:10:48.612Z"
         },
         {
           "queriedTitle": "Venom",
@@ -639,10 +639,10 @@
           "released": "05 Oct 2018",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:33.852Z"
+          "fetchedAt": "2026-10-13T15:10:23.692Z"
         },
         {
-          "queriedTitle": "Deadpool 2",
+          "queriedTitle": "deadpool 2",
           "ok": true,
           "title": "Deadpool 2",
           "year": 2018,
@@ -667,7 +667,7 @@
           "released": "18 May 2018",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:34.787Z"
+          "fetchedAt": "2026-10-13T15:10:46.673Z"
         },
         {
           "queriedTitle": "Avengers: Endgame",
@@ -695,7 +695,7 @@
           "released": "26 Apr 2019",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:28.509Z"
+          "fetchedAt": "2026-10-13T15:09:29.476Z"
         },
         {
           "queriedTitle": "Spider-Man: Far From Home",
@@ -723,7 +723,7 @@
           "released": "02 Jul 2019",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:31.030Z"
+          "fetchedAt": "2026-10-13T15:09:52.320Z"
         },
         {
           "queriedTitle": "Captain Marvel",
@@ -751,7 +751,7 @@
           "released": "08 Mar 2019",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:31.973Z"
+          "fetchedAt": "2026-10-13T15:09:27.223Z"
         },
         {
           "queriedTitle": "Spider-Man: No Way Home",
@@ -779,7 +779,7 @@
           "released": "17 Dec 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:31.344Z"
+          "fetchedAt": "2026-10-13T15:10:32.015Z"
         },
         {
           "queriedTitle": "Black Widow",
@@ -807,7 +807,7 @@
           "released": "09 Jul 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:32.288Z"
+          "fetchedAt": "2026-10-13T15:10:23.062Z"
         },
         {
           "queriedTitle": "Eternals",
@@ -835,7 +835,7 @@
           "released": "05 Nov 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:32.600Z"
+          "fetchedAt": "2026-10-13T15:10:29.759Z"
         },
         {
           "queriedTitle": "Shang-Chi and the Legend of the Ten Rings",
@@ -863,7 +863,7 @@
           "released": "03 Sep 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:32.915Z"
+          "fetchedAt": "2026-10-13T15:10:32.648Z"
         },
         {
           "queriedTitle": "Venom: Let There Be Carnage",
@@ -891,7 +891,7 @@
           "released": "01 Oct 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:34.164Z"
+          "fetchedAt": "2026-10-13T15:10:35.858Z"
         },
         {
           "queriedTitle": "Thor: Love and Thunder",
@@ -919,7 +919,7 @@
           "released": "08 Jul 2022",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:27.245Z"
+          "fetchedAt": "2026-10-13T15:10:34.591Z"
         },
         {
           "queriedTitle": "Doctor Strange in the Multiverse of Madness",
@@ -947,7 +947,7 @@
           "released": "06 May 2022",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:29.767Z"
+          "fetchedAt": "2026-10-13T15:10:32.333Z"
         },
         {
           "queriedTitle": "Deadpool & Wolverine",
@@ -975,7 +975,7 @@
           "released": "26 Jul 2024",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:35.096Z"
+          "fetchedAt": "2026-10-13T15:10:46.993Z"
         }
       ]
     },
@@ -1008,7 +1008,7 @@
           "released": "14 Jul 2000",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:35.413Z"
+          "fetchedAt": "2026-10-13T15:09:39.393Z"
         },
         {
           "queriedTitle": "X2: X-Men United",
@@ -1036,7 +1036,7 @@
           "released": "02 May 2003",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:35.725Z"
+          "fetchedAt": "2026-10-13T15:09:39.707Z"
         },
         {
           "queriedTitle": "X-Men: The Last Stand",
@@ -1064,7 +1064,7 @@
           "released": "26 May 2006",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:36.051Z"
+          "fetchedAt": "2026-10-13T15:09:40.036Z"
         },
         {
           "queriedTitle": "X-Men Origins: Wolverine",
@@ -1091,7 +1091,7 @@
           "released": "01 May 2009",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:36.362Z"
+          "fetchedAt": "2026-10-13T15:09:40.560Z"
         },
         {
           "queriedTitle": "X-Men: First Class",
@@ -1118,7 +1118,7 @@
           "released": "03 Jun 2011",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:36.675Z"
+          "fetchedAt": "2026-10-13T15:09:40.873Z"
         },
         {
           "queriedTitle": "The Wolverine",
@@ -1146,7 +1146,7 @@
           "released": "26 Jul 2013",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:36.982Z"
+          "fetchedAt": "2026-10-13T15:09:41.197Z"
         },
         {
           "queriedTitle": "X-Men: Days of Future Past",
@@ -1174,7 +1174,7 @@
           "released": "23 May 2014",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:37.290Z"
+          "fetchedAt": "2026-10-13T15:09:41.511Z"
         },
         {
           "queriedTitle": "X-Men: Apocalypse",
@@ -1202,7 +1202,7 @@
           "released": "27 May 2016",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:37.596Z"
+          "fetchedAt": "2026-10-13T15:09:42.550Z"
         },
         {
           "queriedTitle": "Logan",
@@ -1230,7 +1230,7 @@
           "released": "03 Mar 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:37.910Z"
+          "fetchedAt": "2026-10-13T15:09:31.195Z"
         }
       ]
     },
@@ -1263,7 +1263,7 @@
           "released": "14 Jun 2013",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:38.227Z"
+          "fetchedAt": "2026-10-13T15:09:45.557Z"
         },
         {
           "queriedTitle": "Batman v Superman: Dawn of Justice",
@@ -1289,7 +1289,7 @@
           "released": "25 Mar 2016",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:38.541Z"
+          "fetchedAt": "2026-10-13T15:09:46.191Z"
         },
         {
           "queriedTitle": "Suicide Squad",
@@ -1317,7 +1317,7 @@
           "released": "05 Aug 2016",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:38.854Z"
+          "fetchedAt": "2026-10-13T15:10:24.030Z"
         },
         {
           "queriedTitle": "Wonder Woman",
@@ -1345,7 +1345,7 @@
           "released": "02 Jun 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:39.165Z"
+          "fetchedAt": "2026-10-13T15:09:44.607Z"
         },
         {
           "queriedTitle": "Justice League",
@@ -1371,7 +1371,7 @@
           "released": "17 Nov 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:39.474Z"
+          "fetchedAt": "2026-10-13T15:09:44.293Z"
         },
         {
           "queriedTitle": "Aquaman",
@@ -1399,7 +1399,7 @@
           "released": "21 Dec 2018",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:39.787Z"
+          "fetchedAt": "2026-10-13T15:09:45.243Z"
         },
         {
           "queriedTitle": "Shazam!",
@@ -1427,7 +1427,7 @@
           "released": "05 Apr 2019",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:40.106Z"
+          "fetchedAt": "2026-10-13T15:09:36.140Z"
         },
         {
           "queriedTitle": "Wonder Woman 1984",
@@ -1455,7 +1455,7 @@
           "released": "25 Dec 2020",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:40.418Z"
+          "fetchedAt": "2026-10-13T15:09:44.929Z"
         },
         {
           "queriedTitle": "The Suicide Squad",
@@ -1483,7 +1483,7 @@
           "released": "05 Aug 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:40.732Z"
+          "fetchedAt": "2026-10-13T15:10:24.350Z"
         },
         {
           "queriedTitle": "Black Adam",
@@ -1511,7 +1511,7 @@
           "released": "21 Oct 2022",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:41.044Z"
+          "fetchedAt": "2026-10-13T15:10:36.795Z"
         }
       ]
     },
@@ -1544,7 +1544,7 @@
           "released": "09 Jul 2003",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:41.359Z"
+          "fetchedAt": "2026-10-13T15:09:36.797Z"
         },
         {
           "queriedTitle": "Pirates of the Caribbean: Dead Man's Chest",
@@ -1572,7 +1572,7 @@
           "released": "07 Jul 2006",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:41.677Z"
+          "fetchedAt": "2026-10-13T15:09:37.119Z"
         },
         {
           "queriedTitle": "Pirates of the Caribbean: At World's End",
@@ -1600,7 +1600,7 @@
           "released": "25 May 2007",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:41.993Z"
+          "fetchedAt": "2026-10-13T15:09:37.458Z"
         },
         {
           "queriedTitle": "Pirates of the Caribbean: On Stranger Tides",
@@ -1628,7 +1628,7 @@
           "released": "20 May 2011",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:42.308Z"
+          "fetchedAt": "2026-10-13T15:09:37.781Z"
         },
         {
           "queriedTitle": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -1656,7 +1656,7 @@
           "released": "26 May 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:42.629Z"
+          "fetchedAt": "2026-10-13T15:09:38.101Z"
         }
       ]
     },
@@ -1689,7 +1689,7 @@
           "released": "16 Nov 2001",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:42.942Z"
+          "fetchedAt": "2026-10-13T15:09:52.636Z"
         },
         {
           "queriedTitle": "Harry Potter and the Chamber of Secrets",
@@ -1717,7 +1717,7 @@
           "released": "15 Nov 2002",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:43.255Z"
+          "fetchedAt": "2026-10-13T15:09:52.950Z"
         },
         {
           "queriedTitle": "Harry Potter and the Prisoner of Azkaban",
@@ -1745,7 +1745,7 @@
           "released": "04 Jun 2004",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:43.567Z"
+          "fetchedAt": "2026-10-13T15:09:53.272Z"
         },
         {
           "queriedTitle": "Harry Potter and the Goblet of Fire",
@@ -1773,7 +1773,7 @@
           "released": "18 Nov 2005",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:43.879Z"
+          "fetchedAt": "2026-10-13T15:09:53.589Z"
         },
         {
           "queriedTitle": "Harry Potter and the Order of the Phoenix",
@@ -1801,7 +1801,7 @@
           "released": "11 Jul 2007",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:44.195Z"
+          "fetchedAt": "2026-10-13T15:09:53.902Z"
         },
         {
           "queriedTitle": "Harry Potter and the Half-Blood Prince",
@@ -1829,7 +1829,7 @@
           "released": "15 Jul 2009",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:44.503Z"
+          "fetchedAt": "2026-10-13T15:09:54.216Z"
         },
         {
           "queriedTitle": "Harry Potter and the Deathly Hallows: Part 1",
@@ -1857,7 +1857,7 @@
           "released": "19 Nov 2010",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:44.818Z"
+          "fetchedAt": "2026-10-13T15:09:54.530Z"
         },
         {
           "queriedTitle": "Harry Potter and the Deathly Hallows: Part 2",
@@ -1885,7 +1885,7 @@
           "released": "15 Jul 2011",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:45.125Z"
+          "fetchedAt": "2026-10-13T15:09:54.881Z"
         }
       ]
     },
@@ -1918,7 +1918,7 @@
           "released": "19 Dec 2001",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:45.441Z"
+          "fetchedAt": "2026-10-13T15:10:37.777Z"
         },
         {
           "queriedTitle": "The Lord of the Rings: The Two Towers",
@@ -1946,7 +1946,7 @@
           "released": "18 Dec 2002",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:45.756Z"
+          "fetchedAt": "2026-10-13T15:10:38.096Z"
         },
         {
           "queriedTitle": "The Lord of the Rings: The Return of the King",
@@ -1974,7 +1974,7 @@
           "released": "17 Dec 2003",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:46.064Z"
+          "fetchedAt": "2026-10-13T15:10:38.416Z"
         }
       ]
     },
@@ -2006,7 +2006,7 @@
           "released": "14 Dec 2012",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:46.372Z"
+          "fetchedAt": "2026-10-13T15:10:47.639Z"
         },
         {
           "queriedTitle": "The Hobbit: The Desolation of Smaug",
@@ -2033,7 +2033,7 @@
           "released": "13 Dec 2013",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:46.690Z"
+          "fetchedAt": "2026-10-13T15:10:47.970Z"
         },
         {
           "queriedTitle": "The Hobbit: The Battle of the Five Armies",
@@ -2060,7 +2060,7 @@
           "released": "17 Dec 2014",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:47.005Z"
+          "fetchedAt": "2026-10-13T15:10:48.293Z"
         }
       ]
     },
@@ -2093,7 +2093,7 @@
           "released": "07 May 1999",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:47.327Z"
+          "fetchedAt": "2026-10-13T15:09:47.818Z"
         },
         {
           "queriedTitle": "The Mummy 3",
@@ -2120,7 +2120,7 @@
           "released": null,
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:47.953Z"
+          "fetchedAt": "2026-10-13T15:09:48.460Z"
         },
         {
           "queriedTitle": "The Mummy Returns",
@@ -2148,7 +2148,7 @@
           "released": "04 May 2001",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:47.638Z"
+          "fetchedAt": "2026-10-13T15:09:48.132Z"
         },
         {
           "queriedTitle": "The Mummy: Tomb of the Dragon Emperor",
@@ -2176,7 +2176,7 @@
           "released": "01 Aug 2008",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:48.267Z"
+          "fetchedAt": "2026-10-13T15:10:52.800Z"
         }
       ]
     },
@@ -2209,7 +2209,7 @@
           "released": "24 Oct 2014",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:48.581Z"
+          "fetchedAt": "2026-10-13T15:09:51.357Z"
         },
         {
           "queriedTitle": "John Wick: Chapter 2",
@@ -2237,7 +2237,7 @@
           "released": "10 Feb 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:48.899Z"
+          "fetchedAt": "2026-10-13T15:09:51.672Z"
         },
         {
           "queriedTitle": "John Wick: Chapter 3 – Parabellum",
@@ -2265,7 +2265,7 @@
           "released": "17 May 2019",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:49.211Z"
+          "fetchedAt": "2026-10-13T15:09:51.990Z"
         }
       ]
     },
@@ -2298,7 +2298,7 @@
           "released": "19 Sep 2014",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:49.523Z"
+          "fetchedAt": "2026-10-13T15:10:08.397Z"
         },
         {
           "queriedTitle": "Maze Runner: The Scorch Trials",
@@ -2326,7 +2326,7 @@
           "released": "18 Sep 2015",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:49.843Z"
+          "fetchedAt": "2026-10-13T15:10:08.715Z"
         },
         {
           "queriedTitle": "Maze Runner: The Death Cure",
@@ -2354,7 +2354,7 @@
           "released": "26 Jan 2018",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:50.150Z"
+          "fetchedAt": "2026-10-13T15:10:09.033Z"
         }
       ]
     },
@@ -2387,7 +2387,7 @@
           "released": "31 May 2013",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:50.469Z"
+          "fetchedAt": "2026-10-13T15:10:14.777Z"
         },
         {
           "queriedTitle": "Now You See Me 2",
@@ -2415,7 +2415,7 @@
           "released": "10 Jun 2016",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:50.782Z"
+          "fetchedAt": "2026-10-13T15:10:15.098Z"
         },
         {
           "queriedTitle": "Now You See Me: Now You Don't",
@@ -2442,7 +2442,7 @@
           "released": "14 Nov 2025",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:51.091Z"
+          "fetchedAt": "2026-10-13T15:10:42.526Z"
         }
       ]
     },
@@ -2475,7 +2475,7 @@
           "released": "13 Feb 2015",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:51.402Z"
+          "fetchedAt": "2026-10-13T15:10:22.116Z"
         },
         {
           "queriedTitle": "Kingsman: The Golden Circle",
@@ -2503,7 +2503,7 @@
           "released": "22 Sep 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:51.715Z"
+          "fetchedAt": "2026-10-13T15:10:22.433Z"
         }
       ]
     },
@@ -2536,7 +2536,7 @@
           "released": "06 Apr 2018",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:52.023Z"
+          "fetchedAt": "2026-10-13T15:10:19.880Z"
         },
         {
           "queriedTitle": "A Quiet Place Part II",
@@ -2564,7 +2564,7 @@
           "released": "28 May 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:52.338Z"
+          "fetchedAt": "2026-10-13T15:10:20.194Z"
         }
       ]
     },
@@ -2597,7 +2597,7 @@
           "released": "18 Aug 2017",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:52.650Z"
+          "fetchedAt": "2026-10-13T15:10:09.346Z"
         },
         {
           "queriedTitle": "Hitman's Wife's Bodyguard",
@@ -2625,7 +2625,7 @@
           "released": "16 Jun 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:52.962Z"
+          "fetchedAt": "2026-10-13T15:10:09.665Z"
         }
       ]
     },
@@ -2658,7 +2658,7 @@
           "released": "03 May 2002",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:53.279Z"
+          "fetchedAt": "2026-10-13T15:10:49.264Z"
         },
         {
           "queriedTitle": "Spider-Man 2",
@@ -2686,7 +2686,7 @@
           "released": "30 Jun 2004",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:53.589Z"
+          "fetchedAt": "2026-10-13T15:10:49.591Z"
         },
         {
           "queriedTitle": "Spider-Man 3",
@@ -2714,7 +2714,7 @@
           "released": "04 May 2007",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:53.896Z"
+          "fetchedAt": "2026-10-13T15:10:49.907Z"
         }
       ]
     },
@@ -2746,7 +2746,7 @@
           "released": "03 Jul 2012",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:54.214Z"
+          "fetchedAt": "2026-10-13T15:10:50.226Z"
         },
         {
           "queriedTitle": "The Amazing Spider-Man 2",
@@ -2774,7 +2774,7 @@
           "released": "02 May 2014",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:54.527Z"
+          "fetchedAt": "2026-10-13T15:10:50.541Z"
         }
       ]
     },
@@ -2807,7 +2807,7 @@
           "released": "30 May 2014",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:54.840Z"
+          "fetchedAt": "2026-10-13T15:09:48.773Z"
         },
         {
           "queriedTitle": "Maleficent: Mistress of Evil",
@@ -2835,7 +2835,7 @@
           "released": "18 Oct 2019",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:55.158Z"
+          "fetchedAt": "2026-10-13T15:09:49.113Z"
         }
       ]
     },
@@ -2867,7 +2867,7 @@
           "released": "03 Dec 1976",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:55.472Z"
+          "fetchedAt": "2026-10-13T15:10:44.123Z"
         },
         {
           "queriedTitle": "Rocky II",
@@ -2894,7 +2894,7 @@
           "released": "15 Jun 1979",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:55.794Z"
+          "fetchedAt": "2026-10-13T15:10:44.443Z"
         },
         {
           "queriedTitle": "Rocky III",
@@ -2921,7 +2921,7 @@
           "released": "28 May 1982",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:56.106Z"
+          "fetchedAt": "2026-10-13T15:10:44.770Z"
         },
         {
           "queriedTitle": "Rocky IV",
@@ -2948,7 +2948,7 @@
           "released": "27 Nov 1985",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:56.416Z"
+          "fetchedAt": "2026-10-13T15:10:45.085Z"
         }
       ]
     },
@@ -2981,7 +2981,7 @@
           "released": "22 Jun 2001",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:56.731Z"
+          "fetchedAt": "2026-10-13T15:10:27.231Z"
         },
         {
           "queriedTitle": "Fast & Furious",
@@ -3008,7 +3008,7 @@
           "released": "03 Apr 2009",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:57.044Z"
+          "fetchedAt": "2026-10-13T15:10:27.543Z"
         }
       ]
     },
@@ -3041,7 +3041,7 @@
           "released": "29 Oct 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:57.366Z"
+          "fetchedAt": "2026-10-13T15:10:33.960Z"
         },
         {
           "queriedTitle": "Army of the Dead",
@@ -3069,7 +3069,7 @@
           "released": "21 May 2021",
           "totalSeasons": null,
           "schema": 2,
-          "fetchedAt": "2026-10-13T15:11:57.680Z"
+          "fetchedAt": "2026-10-13T15:10:34.274Z"
         }
       ]
     }
